@@ -1,0 +1,29 @@
+{
+  "document_id": "64db3bcc1b0ab87499fc2b62dab03dab198b1f759a4c7f7941181be04d727015",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Teheran benennt sechs neue militaerische Fuehrungspersonen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-10T20:08:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker wurden kurz nach der Ernennung eines neuen obersten Sicherheitsberaters sechs militaerische Fuehrungspositionen im Iran per Dekret neu besetzt, veroeffentlicht ueber einen Telegram-Kanal des obersten Fuehrers Modschtaba Chamenei. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "a3288ba3d4f475c916e4f4a83474a9b0c920e8dee6d6366d2ac7231c59f48072",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_64db3bcc1b0a",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

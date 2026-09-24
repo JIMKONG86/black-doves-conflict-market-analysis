@@ -1,0 +1,29 @@
+{
+  "document_id": "9707689199d801330841b90c245752111a414547b93f67817d5ff6b94a520cc9",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Irans Praesident wirbt aus Position der Staerke fuer Kriegsende",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-21T14:19:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Peseschkian bei einer Aerztekonferenz, der Krieg muesse frueher oder spaeter beendet werden, und es sei besser, dies heute aus einer Position der Staerke und Wuerde heraus zu tun. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "83ff617efff197fdf5d5f7e4dcb5abdc3b1848c2ecfcd369935e16fbdfba59ae",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_9707689199d8",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "fc6ed341ef5ddd65400a41e71e25c4b344a82d4964640e4f005a62c894161103",
+  "source_id": "DE_TAGESSCHAU_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "tagesschau.de news RSS",
+  "source_type": "html",
+  "url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "canonical_url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "query": "*",
+  "title": "Israel greift Iran an, Trump bestaetigt US-Beteiligung",
+  "publisher": "ARD-aktuell",
+  "author": null,
+  "published_at": "2026-02-28T08:35:00+01:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut Tagesschau-Liveblog hat Israel am fruehen Morgen Ziele im Iran angegriffen, wenig spaeter bestaetigte US-Praesident Trump auf Truth Social eigene, umfangreiche Angriffe der US-Streitkraefte; Ziel sei laut Trump, eine unmittelbare Bedrohung durch die iranische Fuehrung zu beseitigen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "e02996796b272f34377fdcbcf89e71f679b37a5fcc33b159379a7ddfa432c5c1",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T10:00:00+00:00",
+  "version_id": "20260914T100000000000+0000_fc6ed341ef5d",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

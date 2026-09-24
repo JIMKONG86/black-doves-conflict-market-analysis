@@ -1,0 +1,29 @@
+{
+  "document_id": "4323d317206ca0e0e7deb9e607c0a28ab4c9a83ee81db641f6cb7a51822080b3",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "USA bestaetigen weitere Truppenverlegung in den Nahen Osten",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-26T20:50:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker bestaetigte UN-Botschafter Waltz bei CBS News, dass zusaetzliche US-Militaerkapazitaeten in die Nahost-Region verlegt wuerden, ohne genauere Angaben zu machen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "329db0b0a6147357327dcedcb7a0bf9a6be4bd905c391651817986cdc6319625",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_4323d317206c",
+  "company_ids": [],
+  "target_country_codes": [
+    "US"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "1cf256cdc3f86836fc8db23b87b307946c8c99c052a7629fb4dfe4630495084f",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "IAEA: Iran verweigert weiter Kooperation mit Atominspektoren",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-01T20:03:00+00:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker schrieb IAEA-Chef Grossi in einem nicht oeffentlichen, der dpa vorliegenden Bericht, der Iran habe der Behoerde weiterhin keine Informationen zu seinen umstrittenen Uran-Bestaenden geliefert und die Kooperation mit den Atominspektoren verweigert. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "4fc7ea862ff32fba02f4973dc472b4ee2b04f80e81d94dbb740fd5bd602db462",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_1cf256cdc3f8",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

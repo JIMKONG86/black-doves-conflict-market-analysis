@@ -1,0 +1,29 @@
+{
+  "document_id": "eff8bcb678280d6cd8427beb31f55a2c774f9a612ac2bd719a8652c8e9f9a7ab",
+  "source_id": "DE_TAGESSCHAU_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "tagesschau.de news RSS",
+  "source_type": "html",
+  "url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "canonical_url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "query": "*",
+  "title": "Pahlavi ruft iranische Sicherheitskraefte zum Umsturz auf",
+  "publisher": "ARD-aktuell",
+  "author": null,
+  "published_at": "2026-03-01T00:14:00+01:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut Tagesschau-Liveblog hat der Sohn des frueheren Schahs von Persien, Reza Pahlavi, die Sicherheitskraefte im Iran nach Trumps Erklaerung zum Umsturz aufgerufen und sie aufgefordert, sich dem Volk anzuschliessen; jeder Versuch einer Nachfolgeregelung fuer Chamenei sei zum Scheitern verurteilt. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "c4aaf76c8393c00244efc28223496740847da2a2a8b136a24e36f8cab73fa23c",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T10:00:00+00:00",
+  "version_id": "20260914T100000000000+0000_eff8bcb67828",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

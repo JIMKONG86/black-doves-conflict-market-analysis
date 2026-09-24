@@ -1,0 +1,30 @@
+{
+  "document_id": "348494956ce11385f14b5940d42d6d26d1893a201057a27d7f73b5d20a1ee781",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "USA streichen Iran-nahe irakische Airline von Sanktionsliste",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-05T17:31:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker hob das US-Finanzministerium kurz vor einer angekuendigten Hormus-Oeffnung Sanktionen gegen die den Revolutionsgarden nahestehende irakische Fluggesellschaft Fly Baghdad auf. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "6b5baa3c884bf6c056dd773d478fcfed6eae3543053c14def8845cc78a39b9d6",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_348494956ce1",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

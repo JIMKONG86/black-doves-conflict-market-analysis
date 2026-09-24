@@ -1,0 +1,29 @@
+{
+  "document_id": "d345fbe537e3dfa6dbdadf5f9b4ce6ffc515c76db9e3416a569662ed36c3bdea",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump macht Biden fuer Waffenarsenal-Luecken verantwortlich, fordert mehr Produktion",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-27T20:34:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker wies Trump an Bord der Air Force One Berichte ueber schwindende Munitionsbestaende zurueck, bezeichnete die Vorraete als in sehr gutem Zustand, forderte aber zugleich eine staerkere Produktion und machte die Vorgaengerregierung fuer etwaige Luecken verantwortlich. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "09db4684d6fdd82638ff7387bba63cc74af9a2b862d902aab9d5357a1527fe47",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_d345fbe537e3",
+  "company_ids": [],
+  "target_country_codes": [
+    "US"
+  ]
+}

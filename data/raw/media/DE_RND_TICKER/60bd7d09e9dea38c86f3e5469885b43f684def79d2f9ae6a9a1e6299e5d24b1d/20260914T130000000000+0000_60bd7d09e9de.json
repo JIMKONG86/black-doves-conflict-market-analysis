@@ -1,0 +1,30 @@
+{
+  "document_id": "60bd7d09e9dea38c86f3e5469885b43f684def79d2f9ae6a9a1e6299e5d24b1d",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Beschossene Schule wird zum Gedenkort fuer getoetete Kinder",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-06T19:57:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker wird die zu Kriegsbeginn im Februar getroffene Schadschareh-Tajjebeh-Schule zu einem Denkmal fuer die nach iranischen Behoerdenangaben mehr als 100 dabei getoeteten Schuelerinnen und Schueler; eine Untersuchung der Nachrichtenagentur AP habe Belege dafuer gefunden, dass die Schule von mindestens einer US-Rakete getroffen wurde, waehrend die US-Regierung bislang keine offizielle Verantwortung uebernommen habe. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "5a799cd692cc3653707f792782a625cb661516a959522ccdb0ccb61dde2b7b73",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_60bd7d09e9de",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "43179972bd0e7a4ee4c1969cdac8f74711a3f397ecfa12ed57c4ea507ae959f6",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran verurteilt naechtliche US-Angriffe auf Insel Larak",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-31T07:56:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker verurteilte Irans Aussenministerium Luftangriffe auf die Insel Larak in der Strasse von Hormus, bei denen nach eigenen Angaben mehrere Armeeangehoerige getoetet wurden - der erste US-Angriff auf den Iran seit Wochen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "9c2c14e493e360035c8fb03c1aa33d6094e68991469c7ae541bdcd509f3a317c",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_43179972bd0e",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

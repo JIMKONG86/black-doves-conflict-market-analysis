@@ -1,0 +1,29 @@
+{
+  "document_id": "2af05cb7f7fd779726bd41f290ddf7e4ed64e06259d4f0e1ee127a3ed80025ec",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran ernennt Ex-IRGC-Kommandeur Resai zum obersten Sicherheitsratschef",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-09T19:44:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker ernannte der oberste Fuehrer Modschtaba Chamenei den frueheren Revolutionsgarden-Kommandeur Mohsen Resai zum neuen Vorsitzenden des Nationalen Sicherheitsrates, inmitten mehrerer personeller Umbesetzungen seit Kriegsbeginn. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "5e3a8779759a74d893736e639ae91f865b03f5e3315d753a7e4a9fac01795adc",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_2af05cb7f7fd",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

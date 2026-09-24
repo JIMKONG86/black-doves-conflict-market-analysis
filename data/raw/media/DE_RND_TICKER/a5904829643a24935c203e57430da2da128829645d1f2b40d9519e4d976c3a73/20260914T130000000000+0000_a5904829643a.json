@@ -1,0 +1,30 @@
+{
+  "document_id": "a5904829643a24935c203e57430da2da128829645d1f2b40d9519e4d976c3a73",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran bezeichnet Trumps Wirtschaftskrieg als voelkerrechtswidrig",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-22T06:37:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker erklaerte die iranische Fuehrung, ein angekuendigter US-Wirtschaftskrieg waere voelkerrechtswidrig, da Drittstaaten nicht gezwungen werden duerften, rechtmaessigen Handel mit dem Iran einzustellen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "08bb0dbe0c23ec5595847d1fda611340305a00688ea6893d1c6898484c1287d7",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_a5904829643a",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

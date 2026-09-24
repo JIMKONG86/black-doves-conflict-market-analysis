@@ -1,0 +1,4 @@
+source_layer,source_count,document_count,reviewed_document_count,first_publication_date,last_publication_date,coverage_status,study_window_complete
+STATE_ORGAN,2,25,0,2026-02-28,2026-08-16,PARTIAL,False
+NEWS,3,92,0,2026-02-28,2026-08-18,PARTIAL,False
+TELEVISION,1,1,0,2026-03-23,2026-03-23,PARTIAL,False

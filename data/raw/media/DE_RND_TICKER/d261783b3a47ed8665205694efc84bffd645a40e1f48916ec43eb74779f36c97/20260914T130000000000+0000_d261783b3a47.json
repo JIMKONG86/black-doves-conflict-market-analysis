@@ -1,0 +1,30 @@
+{
+  "document_id": "d261783b3a47ed8665205694efc84bffd645a40e1f48916ec43eb74779f36c97",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "US-Finanzminister: Blockade iranischer Oelexporte funktioniert",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-06T06:47:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte US-Finanzminister Bessent dem Sender Fox News, die Seeblockade iranischer Haefen funktioniere wie geplant und der Iran koenne derzeit kein Oel mehr exportieren; die US-Regierung setze gut sechs Monate nach Kriegsbeginn zunehmend auf wirtschaftlichen Druck. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "00f7bf05f393b20f89298c144e1c55fc6c83063246d527a7c102db475c480f7c",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_d261783b3a47",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "335a11b4e179ad7c3a2b7036e0658025af1c2bb77172abfe0cb07e5caee843f3",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Neue US-Sanktionen zielen auf iranisches Erpressungssystem an der Strasse von Hormus",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-29T18:03:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker verhaengten die USA Sanktionen gegen zwei Unternehmen, die an einem von den Revolutionsgarden unterstuetzten System beteiligt sein sollen, das Handelsschiffe zu einer obligatorischen Zahlung an der Strasse von Hormus zwinge. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "4633dbf24fe8839870a0684d19529a6f546e0913c2e9685fc8766a2dbc7de845",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_335a11b4e179",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

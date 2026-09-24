@@ -1,0 +1,29 @@
+{
+  "document_id": "7f3a1af3ac6d5ba26765300780da48a6dc76b093362f9ce39d1257b404927bf7",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Hamsterkaeufe in Teheran: Kilometerlange Schlangen an Tankstellen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-28T12:11:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker loesten Aengste vor Versorgungsengpaessen in Teheran teils mehr als einen Kilometer lange Schlangen an Tankstellen aus, Autofahrer warteten auch nachts; Praesident Peseschkian hatte zuvor Kriegsfolgen eingeraeumt und zu Sparsamkeit aufgerufen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "3448299b3319dcf1df120cef325455013122d22ddfbabb7d0c260dda71d9e760",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_7f3a1af3ac6d",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

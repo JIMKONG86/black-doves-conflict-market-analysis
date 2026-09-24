@@ -1,0 +1,29 @@
+{
+  "document_id": "6511451aace98a676414fdbffdd64d4de726880950ddc4a6973164a7b8849fb5",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran-Praesident berichtet von siebenstuendigem Treffen mit oberstem Fuehrer",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-10T17:18:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker berichtete Praesident Peseschkian im Staatssender Irib von einem fast siebenstuendigen Treffen mit dem obersten Fuehrer Modschtaba Chamenei, bei dem es um die Lebensfaehigkeit des Landes im Konflikt mit den USA gegangen sei. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "cc8cd736537da4a9ee13f8a4f4020a45cec8ed435b82500aa1af7e575eccde33",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_6511451aace9",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

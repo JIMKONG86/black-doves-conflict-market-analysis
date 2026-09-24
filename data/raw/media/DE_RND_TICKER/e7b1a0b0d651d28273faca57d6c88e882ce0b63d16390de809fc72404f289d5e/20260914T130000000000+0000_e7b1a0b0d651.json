@@ -1,0 +1,30 @@
+{
+  "document_id": "e7b1a0b0d651d28273faca57d6c88e882ce0b63d16390de809fc72404f289d5e",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "US-Militaer versenkt weiteren iranischen Oeltanker",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-09T04:10:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker teilte das US-Regionalkommando Centcom mit, der Tanker 'M/T Riesco' sei im Golf von Oman zerstoert worden und sinke; es handelte sich laut Centcom um einen von insgesamt fuenf am Dienstag angegriffenen und 'zerstoerten' iranischen Oeltankern. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "76c9f0973bae15838470d64c0c34d294b61bfc78cef76548a78e96cf5fa4c053",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_e7b1a0b0d651",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

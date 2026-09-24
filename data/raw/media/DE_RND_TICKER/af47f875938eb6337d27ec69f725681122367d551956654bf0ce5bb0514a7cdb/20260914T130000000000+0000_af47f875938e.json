@@ -1,0 +1,29 @@
+{
+  "document_id": "af47f875938eb6337d27ec69f725681122367d551956654bf0ce5bb0514a7cdb",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Vereinigte Arabische Emirate stoppen kompletten Handel mit Iran",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-19T14:07:00+04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker setzten die Vereinigten Arabischen Emirate nach einem mutmasslichen iranischen Raketenangriff saemtlichen Handel, Warenaustausch und Finanzverkehr mit dem Iran bis auf Weiteres aus - eine deutliche Verschaerfung des wirtschaftlichen Drucks durch einen bislang eher zurueckhaltenden Golfstaat. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "850547828c6f7e2e8b63c6ff748abb4c6ce1c2067212f1aa48c6e47af19567e8",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_af47f875938e",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

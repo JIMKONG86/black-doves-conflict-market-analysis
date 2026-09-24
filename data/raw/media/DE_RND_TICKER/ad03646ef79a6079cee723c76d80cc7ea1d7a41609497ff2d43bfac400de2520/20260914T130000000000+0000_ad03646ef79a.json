@@ -1,0 +1,30 @@
+{
+  "document_id": "ad03646ef79a6079cee723c76d80cc7ea1d7a41609497ff2d43bfac400de2520",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "USA schliessen 13. Angriffsnacht in Folge gegen den Iran ab",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-24T06:03:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker teilte Centcom mit, das US-Militaer habe die 13. Nacht in Folge militaerische Ziele im Iran angegriffen, die juengste Angriffswelle habe nach gut zwei Stunden geendet - ein Beleg fuer die Dauer und Intensitaet der fortgesetzten Kampagne. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "5f94be7ad30808b8798329a617475e39039e0e9b95678b1bbd7df5cf565f7197",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_ad03646ef79a",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "document_id": "0522795a75cd47f1122d985ec988d20968b229bc96b60d87ee73c4311d4cf47b",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "US-Medien: Trump erwaegt Wochenend-Angriffe, moegliche israelische Beteiligung",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-01T06:39:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker berichteten CBS News und das Wall Street Journal unter Berufung auf informierte Personen, Trump erwaege neue Angriffe auf iranische Ziele noch am selben Wochenende, moeglicherweise mit erneutem israelischen Kriegseintritt. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "ef79bd8b31277320dba870c73a4688139a6418c6d03a766c633a82191485789e",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_0522795a75cd",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IL",
+    "IR"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "09e658d001898ec89563f0aad0a16c695ab45e1726b6b450c72e653c98d0cf37",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iranische Truemmerbilder zeigen laut Experten US-Marschflugkoerper",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-02T16:54:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker deuteten von iranischen Medien veroeffentlichte Truemmerbilder nach Einschaetzung von Experten auf US-Marschflugkoerper hin, ein weiterer Hinweis auf US-Beteiligung an bestimmten Angriffen im Rahmen des Kriegs. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "55923a3ae7e1570a4c654811c198f95248142e7a879c5ec82807fc960900da47",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_09e658d00189",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

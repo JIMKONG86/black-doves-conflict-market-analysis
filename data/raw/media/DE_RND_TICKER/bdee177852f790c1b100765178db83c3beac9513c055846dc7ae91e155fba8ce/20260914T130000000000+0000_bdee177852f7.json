@@ -1,0 +1,30 @@
+{
+  "document_id": "bdee177852f790c1b100765178db83c3beac9513c055846dc7ae91e155fba8ce",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran warnt vor brandgefaehrlichem Praezedenzfall bei Beschlagnahmung eingefrorener Gelder",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-24T07:32:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker warnte Aussenminister Araghtschi vor einem brandgefaehrlichen Praezedenzfall, sollten die USA eingefrorene iranische Vermoegenswerte beschlagnahmen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "6e4b2e0ddca49ed0b808039fdbf6d0ba834f5db8be0f8d8dfd35e9b1bfe1dd18",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_bdee177852f7",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

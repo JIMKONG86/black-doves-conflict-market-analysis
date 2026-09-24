@@ -1,0 +1,30 @@
+{
+  "document_id": "de97dcd18543b2e127acd203307067130a55e709b954e79e0b09a94c59e67dfa",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Irans Sicherheitsratschef droht Netanjahu mit der Hoelle",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-28T10:50:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker drohte der Generalsekretaer von Irans Sicherheitsrat, Resai, in einem Staatsfernseh-Interview Israels Regierungschef Netanjahu mit dem Tod und wies zugleich Berichte ueber angebliche iranische Attentatsplaene zurueck. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "d868c55d4a62768c2e394092a757f10a46c37b474fa68ee44367d63f245b7864",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_de97dcd18543",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "IL"
+  ]
+}

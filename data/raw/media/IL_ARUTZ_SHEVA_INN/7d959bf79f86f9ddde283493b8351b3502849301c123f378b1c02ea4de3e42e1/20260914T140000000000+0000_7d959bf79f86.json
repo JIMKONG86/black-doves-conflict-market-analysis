@@ -1,0 +1,30 @@
+{
+  "document_id": "7d959bf79f86f9ddde283493b8351b3502849301c123f378b1c02ea4de3e42e1",
+  "source_id": "IL_ARUTZ_SHEVA_INN",
+  "source_country_code": "IL",
+  "source_name": "israelnationalnews.com search/article pages",
+  "source_type": "html",
+  "url": "https://www.israelnationalnews.com/news/429561",
+  "canonical_url": "https://www.israelnationalnews.com/news/429561",
+  "query": "iran",
+  "title": "NYT-Bericht: USA vermuteten israelischen Plan zur Toetung iranischer Unterhaendler",
+  "publisher": "Israel National News (Arutz Sheva)",
+  "author": null,
+  "published_at": "2026-07-02T23:38:00+03:00",
+  "publication_timezone": "Asia/Jerusalem",
+  "date_precision": "datetime",
+  "jurisdiction": "Israel",
+  "language": "de",
+  "content": "Laut Israel National News berichtete die New York Times, Washington habe im Fruehjahr waehrend heikler Vermittlungsgespraeche einen israelischen Plan zur Toetung der iranischen Chefunterhaendler Araghtschi und Ghalibaf vermutet und daraufhin Regionalpartner gebeten, Teheran diskret zu warnen; dies habe einen tiefen Riss zwischen den Kriegszielen der USA (Diplomatie) und Israels (Fortsetzung des Drucks) offengelegt. Waehrend eines Rueckflugs von Vermittlungsgespraechen mit Vizepraesident Vance in Islamabad sei Ghalibafs Flugzeug ausserdem vor mutmasslich eindringenden israelischen Kampfjets gewarnt und zu einer Notlandung in Maschhad gezwungen worden. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "37060f834545652df7ec14cf9f983d7b41429952871155a1395a4c61d80acd8e",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T14:00:00+00:00",
+  "version_id": "20260914T140000000000+0000_7d959bf79f86",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

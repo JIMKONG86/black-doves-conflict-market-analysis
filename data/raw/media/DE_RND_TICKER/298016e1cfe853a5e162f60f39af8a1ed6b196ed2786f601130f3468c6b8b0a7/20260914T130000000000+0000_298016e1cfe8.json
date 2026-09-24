@@ -1,0 +1,30 @@
+{
+  "document_id": "298016e1cfe853a5e162f60f39af8a1ed6b196ed2786f601130f3468c6b8b0a7",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Vance: US-Ziel ist Ruecklkehr zum Vorkriegsniveau bei Oel- und Gastransport durch Hormus",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-08T17:44:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Vance Fox News, akzeptabler Status quo fuer die Meerenge waere eine Rueckkehr zum Oel- und Gastransport-Niveau von vor dem Krieg, was die Iraner zugesagt haetten. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "20542820491612c65c761361ccf27bf3c91732afbfb223216f53a7deee475e94",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_298016e1cfe8",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

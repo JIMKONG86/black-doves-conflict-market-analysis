@@ -1,0 +1,45 @@
+{
+  "candidate_id": "1003b08828a99c033f84bf6fb8a5a9e0ebfd6b682011d6297a83ed906ac9dc34",
+  "document_id": "8833e3434923f8ca569d72a45bd525c70f32a3e61150c4937fd22d012f5b4fca",
+  "candidate_type": "amount",
+  "review_count": 4,
+  "latest_decision": "confirmed",
+  "reviews": [
+    {
+      "review_id": "3da072e3b1ecd126e3973bef58c2b0228041d8bc1ce59031a29350d382d46bf0",
+      "decision": "confirmed",
+      "semantic_role": "budget_amount",
+      "normalized_value": "9040000 EUR",
+      "reviewer_note": "Approximate annual Bundeswehr childcare expenditure for 2025; ending amount in the 2022–2025 comparison. Not a contract value.",
+      "reviewed_by": "Markus",
+      "reviewed_at": "2026-09-03T10:20:11.200358+00:00"
+    },
+    {
+      "review_id": "b5f7893ca38a15437c5d8f8ccfef7c1308d7e5abdb9f9ef2ff64ef7cccc35b8d",
+      "decision": "confirmed",
+      "semantic_role": "expenditure_amount",
+      "normalized_value": "9040000 EUR",
+      "reviewer_note": "9040000 EUR",
+      "reviewed_by": "Markus",
+      "reviewed_at": "2026-09-03T10:51:19.491878+00:00"
+    },
+    {
+      "review_id": "821cfae6f594aa6a9caf54c1bec06f15206384b72180bcd96856ddd6c5f05219",
+      "decision": "confirmed",
+      "semantic_role": "expenditure_amount",
+      "normalized_value": "9040000 EUR",
+      "reviewer_note": "Approximate annual Bundeswehr childcare expenditure for 2025; ending amount in the 2022–2025 comparison. Not a contract value.",
+      "reviewed_by": "Markus",
+      "reviewed_at": "2026-09-03T10:52:58.034938+00:00"
+    },
+    {
+      "review_id": "e6f7c81e5ce00fe4039d1969c366992fdb0d37766a3d37d172973dd75b21304d",
+      "decision": "confirmed",
+      "semantic_role": "expenditure_amount",
+      "normalized_value": "9040000 EUR",
+      "reviewer_note": "Approximate annual Bundeswehr childcare expenditure for 2025; ending amount in the 2022–2025 comparison. Not a contract value.",
+      "reviewed_by": "Markus",
+      "reviewed_at": "2026-09-03T18:48:39.140580+00:00"
+    }
+  ]
+}

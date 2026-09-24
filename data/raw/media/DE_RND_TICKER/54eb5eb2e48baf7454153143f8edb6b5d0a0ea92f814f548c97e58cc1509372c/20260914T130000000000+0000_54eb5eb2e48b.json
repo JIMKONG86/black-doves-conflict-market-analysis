@@ -1,0 +1,29 @@
+{
+  "document_id": "54eb5eb2e48baf7454153143f8edb6b5d0a0ea92f814f548c97e58cc1509372c",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Jordanien faengt fast zwei Dutzend iranische Raketen ab",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-09T02:24:00+03:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker meldete Jordanien die Abwehr von 20 ballistischen Raketen aus dem Iran, 18 seien zerstoert, zwei in entlegene Gebiete gestuerzt; Verletzte habe es nicht gegeben. Die iranischen Revolutionsgarden hatten zuvor von schweren Vergeltungsangriffen auf eine US-Militaerbasis in Jordanien gesprochen, was von US- und jordanischer Seite nicht bestaetigt wurde. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "3ffd0e029b9570d37a1d54f961ad94fd1038c48828384119a55501e71106dc2c",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_54eb5eb2e48b",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

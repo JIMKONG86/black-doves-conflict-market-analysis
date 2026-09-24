@@ -1,0 +1,25 @@
+scope_type,scope_name,conflict_metric,lag_weeks,market_response,observations,pearson_correlation,spearman_correlation,status,first_conflict_week,last_conflict_week,first_response_week,last_response_week
+combined,Iran + Israel,strike_events,0,weekly_abnormal_return,86,-0.06871045198686435,-0.12382560082999304,ok,2025-01-04,2026-08-22,2025-01-04,2026-08-22
+combined,Iran + Israel,strike_events,1,weekly_abnormal_return,85,-0.06514808513901404,-0.06786306491597606,ok,2025-01-04,2026-08-15,2025-01-11,2026-08-22
+combined,Iran + Israel,strike_events,2,weekly_abnormal_return,84,-0.10640839458804405,-0.1596718429796545,ok,2025-01-04,2026-08-08,2025-01-18,2026-08-22
+combined,Iran + Israel,strike_events,4,weekly_abnormal_return,82,-0.14668856740312491,-0.14929179546970908,ok,2025-01-04,2026-07-25,2025-02-01,2026-08-22
+combined,Iran + Israel,strike_fatalities,0,weekly_abnormal_return,86,-0.06236825506291011,-0.10423934378278153,ok,2025-01-04,2026-08-22,2025-01-04,2026-08-22
+combined,Iran + Israel,strike_fatalities,1,weekly_abnormal_return,85,-0.057044447263044126,-0.07868016513018149,ok,2025-01-04,2026-08-15,2025-01-11,2026-08-22
+combined,Iran + Israel,strike_fatalities,2,weekly_abnormal_return,84,-0.06431703497043396,-0.0979415171614399,ok,2025-01-04,2026-08-08,2025-01-18,2026-08-22
+combined,Iran + Israel,strike_fatalities,4,weekly_abnormal_return,82,-0.10686122786308014,-0.04589154266793249,ok,2025-01-04,2026-07-25,2025-02-01,2026-08-22
+country,Iran,strike_events,0,weekly_abnormal_return,86,-0.06386562620869189,-0.11667885061832427,ok,2025-01-04,2026-08-22,2025-01-04,2026-08-22
+country,Iran,strike_events,1,weekly_abnormal_return,85,-0.051637166470086406,-0.09944492149261981,ok,2025-01-04,2026-08-15,2025-01-11,2026-08-22
+country,Iran,strike_events,2,weekly_abnormal_return,84,-0.08403605067437175,-0.11143560443061663,ok,2025-01-04,2026-08-08,2025-01-18,2026-08-22
+country,Iran,strike_events,4,weekly_abnormal_return,82,-0.12138467507554233,-0.06861758277397974,ok,2025-01-04,2026-07-25,2025-02-01,2026-08-22
+country,Iran,strike_fatalities,0,weekly_abnormal_return,86,-0.06447578432020781,-0.04282186985469188,ok,2025-01-04,2026-08-22,2025-01-04,2026-08-22
+country,Iran,strike_fatalities,1,weekly_abnormal_return,85,-0.056239778662845845,-0.07748454055315289,ok,2025-01-04,2026-08-15,2025-01-11,2026-08-22
+country,Iran,strike_fatalities,2,weekly_abnormal_return,84,-0.06410843006161157,-0.1453920333194144,ok,2025-01-04,2026-08-08,2025-01-18,2026-08-22
+country,Iran,strike_fatalities,4,weekly_abnormal_return,82,-0.1083104681467965,-0.018658164096815526,ok,2025-01-04,2026-07-25,2025-02-01,2026-08-22
+country,Israel,strike_events,0,weekly_abnormal_return,86,-0.07804906930759876,-0.07212813624522232,ok,2025-01-04,2026-08-22,2025-01-04,2026-08-22
+country,Israel,strike_events,1,weekly_abnormal_return,85,-0.10131539054856598,-0.07169075466378175,ok,2025-01-04,2026-08-15,2025-01-11,2026-08-22
+country,Israel,strike_events,2,weekly_abnormal_return,84,-0.1664051678010225,-0.20082011194380006,ok,2025-01-04,2026-08-08,2025-01-18,2026-08-22
+country,Israel,strike_events,4,weekly_abnormal_return,82,-0.21240249146766468,-0.18432859586359923,ok,2025-01-04,2026-07-25,2025-02-01,2026-08-22
+country,Israel,strike_fatalities,0,weekly_abnormal_return,86,0.019257644418793615,-0.11737555305668033,ok,2025-01-04,2026-08-22,2025-01-04,2026-08-22
+country,Israel,strike_fatalities,1,weekly_abnormal_return,85,-0.0693494027213629,-0.06104639510368791,ok,2025-01-04,2026-08-15,2025-01-11,2026-08-22
+country,Israel,strike_fatalities,2,weekly_abnormal_return,84,-0.055943646470730586,-0.08867847606912785,ok,2025-01-04,2026-08-08,2025-01-18,2026-08-22
+country,Israel,strike_fatalities,4,weekly_abnormal_return,82,-0.03580346652848469,-0.14264425047609675,ok,2025-01-04,2026-07-25,2025-02-01,2026-08-22

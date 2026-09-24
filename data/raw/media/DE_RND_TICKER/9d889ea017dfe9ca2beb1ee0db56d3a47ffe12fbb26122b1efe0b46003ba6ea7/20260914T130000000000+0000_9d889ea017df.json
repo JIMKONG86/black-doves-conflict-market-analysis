@@ -1,0 +1,31 @@
+{
+  "document_id": "9d889ea017dfe9ca2beb1ee0db56d3a47ffe12fbb26122b1efe0b46003ba6ea7",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Irans neuer oberster Fuehrer Modschtaba Chamenei ruft zu muslimischer Einheitsfront gegen USA und Israel auf",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-30T09:06:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker bezeichnete Irans neuer oberster Fuehrer Modschtaba Chamenei in einer seltenen Botschaft die USA und Israel als Feinde der gesamten muslimischen Gemeinschaft und rief muslimische Laender, insbesondere am Golf, zur Einheit gegen diesen Feind auf. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "287b7cf918c4399c689d8d1fc20c3f6574d205fdf8f3c06ad34298f2c8ab62d2",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_9d889ea017df",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US",
+    "IL"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "73f63c6f6edc26ab2926d4cf2f2f658e1ae25350374825d2602ca10ae2a190d8",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "US-Angriffe im Irak toeten 20 Kaempfer und sechs iranische Berater",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-30T06:01:00+03:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker meldeten pro-iranische Milizen nach US- und saudischen Luftangriffen im Irak mindestens 20 getoetete Kaempfer und sechs getoetete iranische Berater, als Reaktion auf mutmassliche Drohnenangriffe auf saudische Oelanlagen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "24b93de8cf578cf11b0011db655ac8d5be85663628965025c2d0ffaaf911ecbb",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_73f63c6f6edc",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

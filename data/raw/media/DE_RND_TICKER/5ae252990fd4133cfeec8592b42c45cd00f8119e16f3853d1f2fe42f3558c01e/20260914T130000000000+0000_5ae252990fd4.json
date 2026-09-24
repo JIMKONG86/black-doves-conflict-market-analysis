@@ -1,0 +1,29 @@
+{
+  "document_id": "5ae252990fd4133cfeec8592b42c45cd00f8119e16f3853d1f2fe42f3558c01e",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Unicef: Mehr als 2500 Kinder unter Kriegsopfern im Iran, 4000 in der Region",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-31T15:32:00+02:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker aeusserte sich das UN-Kinderhilfswerk Unicef besorgt, dass die Zahl im Iran verletzter oder getoeteter Kinder 2500 ueberschritten habe; regionsweit in sechs Laendern seien es mehr als 4000 verletzte oder getoetete Kinder. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "df84688166960a09224bcca25b18158cd4f3f0f91245d463dfae21bae681cc4d",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_5ae252990fd4",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

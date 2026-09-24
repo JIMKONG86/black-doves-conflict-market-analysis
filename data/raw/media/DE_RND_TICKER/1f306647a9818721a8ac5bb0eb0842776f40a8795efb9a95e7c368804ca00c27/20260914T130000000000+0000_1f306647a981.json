@@ -1,0 +1,29 @@
+{
+  "document_id": "1f306647a9818721a8ac5bb0eb0842776f40a8795efb9a95e7c368804ca00c27",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Pentagon aendert Opferzahlen zum Iran-Krieg, sorgt fuer Transparenz-Fragen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-27T04:04:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker entfernte das Pentagon vier in den vergangenen Wochen im Iran-Krieg getoetete US-Soldaten aus der offiziellen Statistik und verschob sie in eine neue Kategorie - ein ungewoehnlicher Schritt, der Fragen zur Transparenz der Ministeriums-Zaehlung aufwirft, aehnlich der spaeteren Umkategorisierung bei den Verwundetenzahlen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "56b5e81cb90a4519fda865c6e8b2cc51e52e45f41d5a1f4eed951419428a32ec",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_1f306647a981",
+  "company_ids": [],
+  "target_country_codes": [
+    "US"
+  ]
+}

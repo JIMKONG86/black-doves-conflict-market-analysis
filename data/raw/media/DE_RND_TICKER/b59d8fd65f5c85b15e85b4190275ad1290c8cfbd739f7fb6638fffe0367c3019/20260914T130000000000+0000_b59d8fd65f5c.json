@@ -1,0 +1,29 @@
+{
+  "document_id": "b59d8fd65f5c85b15e85b4190275ad1290c8cfbd739f7fb6638fffe0367c3019",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Irans Generalstabschef warnt US-Verbuendete am Golf nach mutmasslichem Angriff auf VAE",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-19T17:17:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker warnte das iranische Militaer die Vereinigten Arabischen Emirate und andere US-Verbuendete am Golf, jede Unterstuetzung des US-Militaers komme einer Beteiligung an dessen Aktionen gleich. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "3c468c859a3fa37b204c29bb878603f61bbc60610a8af285b7dac2d12d428054",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_b59d8fd65f5c",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

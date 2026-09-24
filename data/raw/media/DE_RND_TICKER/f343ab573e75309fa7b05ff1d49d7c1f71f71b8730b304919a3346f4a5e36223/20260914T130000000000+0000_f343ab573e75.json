@@ -1,0 +1,30 @@
+{
+  "document_id": "f343ab573e75309fa7b05ff1d49d7c1f71f71b8730b304919a3346f4a5e36223",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump: Golfstaaten bewegten ihn zum Verzicht auf neue Angriffe",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-03T06:21:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Trump, Katar, Saudi-Arabien und die Vereinigten Arabischen Emirate haetten ihn dazu bewegt, urspruenglich geplante neue Angriffe der US-Streitkraefte gegen Iran zu stoppen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "48b31e89e8978da676cda9414857405964ee7f881f2dfb53cfdca26a246dcc1c",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_f343ab573e75",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

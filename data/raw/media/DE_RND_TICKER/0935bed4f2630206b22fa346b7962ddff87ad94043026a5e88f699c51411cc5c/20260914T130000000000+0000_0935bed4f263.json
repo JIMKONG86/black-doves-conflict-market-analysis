@@ -1,0 +1,30 @@
+{
+  "document_id": "0935bed4f2630206b22fa346b7962ddff87ad94043026a5e88f699c51411cc5c",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump droht mit Nulltoleranz-Zerstoerung minenlegender Schiffe in Hormus",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-25T17:24:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker drohte Trump auf Truth Social erneut mit der Zerstoerung jeglicher Schiffe, die in der Strasse von Hormus Seeminen legten, und verwies auf eine Nulltoleranz-Politik. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "403d40f96b954a15ef2284b54c18d1f7ab6396f52a3993057efddb2d24e1129d",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_0935bed4f263",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "a28b6c12b8068c83d95d53509f68f7e2ae6a933e7fe9e70d83f9982f24cde641",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Sorge um Schaedel-Hirn-Traumata bei fast 700 verletzten US-Soldaten",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-07T06:26:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker ruecken langfristige Folgen von Schaedel-Hirn-Traumata bei fast 700 im Iran-Krieg verletzten US-Militaerangehoerigen zunehmend in den Fokus, die meisten davon durch Drohnen- und Raketenangriffe auf Nahost-Stuetzpunkte. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "2e08da500cc2765befcfd1c3d1b93236979f981fe6798d0e887cf103ad2b10fd",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_a28b6c12b806",
+  "company_ids": [],
+  "target_country_codes": [
+    "US"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "dbb9ad1620a410fd09e2f85998893ddf8a70d38574f45913378f9297dd1050b2",
+  "source_id": "DE_ZDF_HEUTE_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "heute.de news liveblog / RSS",
+  "source_type": "html",
+  "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+  "canonical_url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+  "query": "*",
+  "title": "Iran meldet einen Toten nach Angriff auf Containerschiff",
+  "publisher": "ZDF",
+  "author": null,
+  "published_at": "2026-09-13T09:53:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut ZDF-Liveblog wurde nach Angaben der staatlichen iranischen Nachrichtenagentur Irna bei einem Angriff auf ein iranisches Containerschiff nahe der Insel Hengam in der Straße von Hormus ein Besatzungsmitglied getötet und vier weitere verletzt; als Ursache wird ein unbekanntes Projektil genannt. Paraphrasierte Zusammenfassung, kein wörtliches Zitat.",
+  "content_hash": "31c4eb7067165fe9aeacaaec77949cc12c4f8889cbe1e336fbeb31d922012101",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T04:16:34+00:00",
+  "version_id": "20260914T041634000000+0000_dbb9ad1620a4",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

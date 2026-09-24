@@ -1,0 +1,30 @@
+{
+  "document_id": "cab891caf0d8a7b7079c7672ccb77415a48587a3f042d605c56a5e0e5a040d55",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Bessent kuendigt weitere Bank-Sanktionen wegen Iran-Geschaeften an",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-31T03:38:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Bessent der AP vor dem G20-Finanzministertreffen in Asheville, die USA wollten noch in derselben Woche eine weitere Bank wegen Iran-Geschaeften sanktionieren, um den wirtschaftlichen Druck zu erhoehen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "7d9a03988bc8e9403d43bae66dcc7a5a612aba7832832ae457046ae73c7e689f",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_cab891caf0d8",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

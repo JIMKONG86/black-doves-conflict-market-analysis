@@ -1,0 +1,29 @@
+{
+  "document_id": "0b4b2df76c719ed7aa89daecc269ec9e480ec50719c993d064852c0c0807c8db",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Irans Revolutionsgarden stoppen sechs Handelsschiffe in Strasse von Hormus",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-26T10:03:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker erklaerten die Revolutionsgarden laut Tasnim, sechs Handelsschiffe vor der Durchfahrt gestoppt zu haben, und beanspruchten die Kontrolle ueber ein 240.000 Quadratkilometer grosses Gebiet im Persischen Golf. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "b683faa6adf515d3418e62f87081617e4090de45c54b7e4026a5f0e7d1989eff",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_0b4b2df76c71",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "14d697e40e59d3802056a19da3a64e615253ee5692bcfdd22214d64247b0944a",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "FBI ermittelt zu Cyberangriffen auf Wassersysteme in Minnesota, iranische Hacker vermutet",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-31T17:56:00-05:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker wurden mehr als 30 Wasserversorgungssysteme in Minnesota Ziel von Cyberangriffen; das FBI ermittle, iranische Hacker wuerden vermutet - ein Beispiel fuer die Cyber-Dimension des Konflikts. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "6bc6cb9c9cca0e86b56482ee310edef340d84abc363404b6371ee5611753d914",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_14d697e40e59",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

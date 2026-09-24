@@ -1,0 +1,30 @@
+{
+  "document_id": "2d22b01f49addea21d20def1ca6c71892477edbae5cffba3a9cb509de2ac01f2",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "USA belegen 27 iranische Fluggesellschaften mit neuen Sanktionen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-08T17:28:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker hat das US-Finanzministerium 27 weitere iranische Fluggesellschaften mit Sanktionen belegt, darunter Kish Airlines, Iran Air Tour und ATA Airlines, und damit den Druck auf den gesamten iranischen Luftfahrtsektor deutlich verbreitert; auch auslaendischen Firmen und Banken drohen bei Geschaeften mit den betroffenen Airlines Konsequenzen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "cd07ae6f1f8616ad5070d4b1710c7c3ce09846187378add9977f33938d90b74a",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_2d22b01f49ad",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

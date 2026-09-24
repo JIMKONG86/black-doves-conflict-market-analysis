@@ -1,0 +1,30 @@
+{
+  "document_id": "2f9f322df8f813d345af39e479462172ca6d2456489dbd83664dfd200b28379f",
+  "source_id": "IL_ARUTZ_SHEVA_INN",
+  "source_country_code": "IL",
+  "source_name": "israelnationalnews.com search/article pages",
+  "source_type": "html",
+  "url": "https://www.israelnationalnews.com/news/432066",
+  "canonical_url": "https://www.israelnationalnews.com/news/432066",
+  "query": "iran",
+  "title": "Trump: Militaeroption gegen Iran bleibt trotz Wirtschaftskrieg auf dem Tisch",
+  "publisher": "Israel National News (Arutz Sheva)",
+  "author": null,
+  "published_at": "2026-08-22T00:31:00+03:00",
+  "publication_timezone": "Asia/Jerusalem",
+  "date_precision": "datetime",
+  "jurisdiction": "Israel",
+  "language": "de",
+  "content": "Laut Israel National News sagte Trump vor Journalisten auf der Joint Base Andrews, der Uebergang zu verstaerktem wirtschaftlichem Druck bedeute keine Einschraenkung der militaerischen Optionen gegen den Iran; er verwies auf eine iranische Inflation von 350 Prozent und vollstaendige US-Kontrolle ueber die Strasse von Hormus. Der Iran wolle zwar ein Abkommen, sei aber nicht bereit, die aus seiner Sicht richtige Vereinbarung zu treffen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "6bb7c02e11ae77763336231829a5cf78937b27461b93fc719e0e4ac7b3993950",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T14:00:00+00:00",
+  "version_id": "20260914T140000000000+0000_2f9f322df8f8",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

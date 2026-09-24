@@ -1,0 +1,30 @@
+{
+  "document_id": "2cb5b613b1daee23792bd7b43d31ec87d89323c6116cbb5008d52b4744e7047d",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Frankreich weist zwei iranische Diplomaten nach Uebergriff aus",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-18T21:24:00+02:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker wies Frankreich zwei iranische Botschaftsmitarbeiter wegen eines vorgeworfenen Uebergriffs auf zwei franzoesische Diplomaten aus; sie sollten das Land in den kommenden Tagen verlassen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "a8e13de04800d99baf7f034560c26234b111b5b409498509c695a1dfe7988a13",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_2cb5b613b1da",
+  "company_ids": [],
+  "target_country_codes": [
+    "FR",
+    "IR"
+  ]
+}

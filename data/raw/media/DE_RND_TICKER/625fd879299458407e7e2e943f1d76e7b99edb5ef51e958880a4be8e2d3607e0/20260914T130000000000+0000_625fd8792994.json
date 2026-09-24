@@ -1,0 +1,29 @@
+{
+  "document_id": "625fd879299458407e7e2e943f1d76e7b99edb5ef51e958880a4be8e2d3607e0",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Katars Regierungschef reist zu Deeskalationsgespraechen nach Teheran",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-27T13:55:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker traf Katars Ministerpraesident Al Thani in Teheran mit Aussenminister Araghtschi zusammen, um Moeglichkeiten zur Deeskalation und Rahmenbedingungen fuer einen Dialog zu besprechen - bereits der dritte hochrangige Vermittlungsbesuch. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "314360107ab8adb5a5e3476c03f1dc9d54820705c607a61ecc37ba75d552f4b2",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_625fd8792994",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "f5b84d7d10cc7e9a3fdd2588b39cc6a0275a07f407927eda32dce38525910f71",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Aegypten und Katar draengen auf neue Gespraeche zwischen USA und Iran",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-02T17:47:00+02:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker riefen die Aussenminister Aegyptens und Katars beide Kriegsparteien zur Rueckkehr an den Verhandlungstisch auf Basis des gescheiterten Waffenruheabkommens auf. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "9162217e1f2b63161ebf4faa2318343af5e44dc2cf00007182960880187518fa",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_f5b84d7d10cc",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

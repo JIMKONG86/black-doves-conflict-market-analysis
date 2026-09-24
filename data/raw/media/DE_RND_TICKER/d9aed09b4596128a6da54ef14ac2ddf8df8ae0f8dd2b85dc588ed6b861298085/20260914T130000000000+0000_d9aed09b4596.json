@@ -1,0 +1,29 @@
+{
+  "document_id": "d9aed09b4596128a6da54ef14ac2ddf8df8ae0f8dd2b85dc588ed6b861298085",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Brent-Rohoel steigt auf 108 Dollar, hoechster Stand seit Mai",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-10T23:13:00+02:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker erreichte der Preis fuer ein Fass der Nordsee-Oelsorte Brent am Donnerstag 108 US-Dollar, den hoechsten Stand seit Mai; Hintergrund seien die gegenseitigen Angriffe der USA und des Irans rund um die Strasse von Hormus. An den US-Boersen habe die Sorge vor steigender Inflation und Zinserhoehungen die Stimmung belastet. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "ed1056a948c5b4fd0062bbc3be1b6307e800653dba13ca9c249dc4f9cf2c3783",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_d9aed09b4596",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

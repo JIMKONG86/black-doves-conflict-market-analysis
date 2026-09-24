@@ -1,0 +1,30 @@
+{
+  "document_id": "b28c06b52b423b845bdc737df4bc27a111ac4d3806e822f3113f20774e63dc2b",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Klingbeil macht Iran-Krieg fuer steigende Staatsanleihe-Zinsen verantwortlich",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-24T00:00:00+02:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Finanzminister Klingbeil nach einem Treffen deutschsprachiger Finanzminister in Liechtenstein, der Zinsanstieg bei Staatsanleihen der vergangenen Wochen, der auch zehnjaehrige Bundesanleihen auf Rekordniveaus trieb, sei eine Folge der durch den Iran-Krieg ausgeloesten globalen Unsicherheit; er erneuerte zudem seine gemeinsam mit fuenf europaeischen Amtskollegen vorangetriebene Forderung nach einer Uebergewinnsteuer auf Mineraloelfirmen, in der Frage sei die Bundesregierung jedoch uneinig. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "7a254b59a5bce6d07df51e619456b7189c9e806b1cfba67050233983bb75c2f9",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_b28c06b52b42",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "DE"
+  ]
+}

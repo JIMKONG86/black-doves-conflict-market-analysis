@@ -1,0 +1,30 @@
+{
+  "document_id": "98542b9dd5ae7984507955af809cd657a841fd2a3b7656d4a90c477722d10d39",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Netanjahu sichert Trump volle Unterstuetzung im Kampf gegen Iran zu",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-26T17:21:00+03:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Netanjahu, er stehe voll und ganz hinter Trumps Bemuehungen, den Iran zu schwaechen und zur Aufgabe seines Atomprogramms zu bewegen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "48fcbe7b04da0ab51cb0b6a6899ddd6bcf3a3614f6cbb09aa8a6a48a62748b66",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_98542b9dd5ae",
+  "company_ids": [],
+  "target_country_codes": [
+    "IL",
+    "US"
+  ]
+}

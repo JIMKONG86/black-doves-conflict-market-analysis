@@ -1,0 +1,29 @@
+{
+  "document_id": "4f292f66804a7eb77e1829a72cd6840481cf9ceb9688dd2eba961de8cb20b1ba",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iranische Medien: Explosionen auf Insel Charg und nahe Dschask",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-08T21:49:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker meldeten die iranischen Nachrichtenagenturen Mehr und Fars Explosionen auf der oelwichtigen Insel Charg im Persischen Golf sowie nahe der Hafenstadt Dschask an der Strasse von Hormus; Ursache und moegliche Schaeden liessen sich unabhaengig nicht ueberpruefen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "63bbe2fe54d24ed20cd17e34d3e61fb7aa952f29439a656cd198e0bcef2f1d04",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_4f292f66804a",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

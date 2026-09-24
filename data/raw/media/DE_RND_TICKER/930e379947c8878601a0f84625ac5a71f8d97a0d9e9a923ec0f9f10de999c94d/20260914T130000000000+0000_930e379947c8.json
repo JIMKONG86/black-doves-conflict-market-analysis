@@ -1,0 +1,30 @@
+{
+  "document_id": "930e379947c8878601a0f84625ac5a71f8d97a0d9e9a923ec0f9f10de999c94d",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran schiesst US-Aufklaerungsdrohne ab",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-08T15:27:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker meldete die den Revolutionsgarden nahestehende Nachrichtenagentur Tasnim, die iranische Flugabwehr habe eine US-Aufklaerungsdrohne vom Typ MQ-1 nahe der Hafenstadt Bandar Abbas abgeschossen; eine US-Bestaetigung gab es zunaechst nicht. Die Strasse von Hormus sei im Kriegsverlauf zum zentralen Streitpunkt zwischen Washington und Teheran geworden. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "5eb7b6df0bf5f7f8f4c286b733966d2b2889844f34b9cbf49db5d2e0ccbbc286",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_930e379947c8",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "candidate_id": "2ab99e624e223645a73482db05a8ad8927ca006457298e5783edce99d70e4b5e",
+  "document_id": "6f8f02306cc5227a6b49ba558eb6dedf43b4f979cd4361fde894333112bd7e41",
+  "candidate_type": "date",
+  "review_count": 1,
+  "latest_decision": "confirmed",
+  "reviews": [
+    {
+      "review_id": "bc9bf6e8fe2bb144f9764a690e4a365a58b099d8ed93a1bad5a0553ccda42b48",
+      "decision": "confirmed",
+      "semantic_role": "document_date",
+      "normalized_value": "2026-08-25",
+      "reviewer_note": "Document date stated in the Bundestag document header.",
+      "reviewed_by": "Markus",
+      "reviewed_at": "2026-09-02T14:54:04.644754+00:00"
+    }
+  ]
+}

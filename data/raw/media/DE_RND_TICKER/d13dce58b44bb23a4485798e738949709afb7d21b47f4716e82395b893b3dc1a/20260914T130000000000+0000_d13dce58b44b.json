@@ -1,0 +1,30 @@
+{
+  "document_id": "d13dce58b44bb23a4485798e738949709afb7d21b47f4716e82395b893b3dc1a",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Hegseth schliesst erneute Angriffe auf Iran trotz Kampfpause nicht aus",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-25T06:20:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker erklaerte US-Verteidigungsminister Hegseth, militaerische Angriffe seien weder in der Strasse von Hormus noch um den Iran ausgeschlossen, sollte Teheran den Bogen ueberspannen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "1e8810357ab4d75e51832555677fa4b8ad327ca422139328ac2abc3eb0838624",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_d13dce58b44b",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

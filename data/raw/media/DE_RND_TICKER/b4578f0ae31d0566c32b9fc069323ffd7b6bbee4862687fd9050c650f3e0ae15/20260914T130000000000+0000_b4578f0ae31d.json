@@ -1,0 +1,30 @@
+{
+  "document_id": "b4578f0ae31d0566c32b9fc069323ffd7b6bbee4862687fd9050c650f3e0ae15",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Experte: USA im Hormus-Konflikt zuletzt leicht im Vorteil, Oelpreis bei 80 Dollar",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-02T18:01:00+01:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sah Nahost-Experte Sascha Bruchmann vom International Crisis Group die Lage zuletzt leicht zugunsten Washingtons verschoben, da der Oelpreis zeitweise auf rund 80 Dollar je Barrel gefallen sei, waehrend iranische Vertreter zunehmend wirtschaftliche Schwierigkeiten einraeumten. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "d9f5ae4f0c5859bc255a2a784f9593ff591f4c17c67209db05098abf1ef25302",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_b4578f0ae31d",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

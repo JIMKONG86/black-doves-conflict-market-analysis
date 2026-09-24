@@ -1,0 +1,30 @@
+{
+  "document_id": "6983690f02f21f3f84efa34e5497fbc3860a1a189f3efd4f5da85594eacd382d",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "BDI: Iran-Krieg daempft weltwirtschaftliches Wachstum erheblich",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-07T08:11:00+02:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker erklaerte der Bundesverband der Deutschen Industrie (BDI) in seinem Globalen Wachstumsausblick, die Hoffnung auf eine Konjunkturbelebung zu Jahresbeginn habe durch den Iran-Krieg einen erheblichen Daempfer erhalten. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "10865765b7668d4e0e3601c48dc58effee6fb359ac955559a0e75977db326617",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_6983690f02f2",
+  "company_ids": [],
+  "target_country_codes": [
+    "DE",
+    "IR"
+  ]
+}

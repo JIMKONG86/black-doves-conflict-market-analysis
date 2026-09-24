@@ -1,0 +1,29 @@
+{
+  "document_id": "14e7581656e10b5674852485c2dc88a48820cecf536be76173d384b91af9cd67",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Pentagon dementiert Bericht ueber interne Warnungen zu Iran-Einsatz",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-31T03:40:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker wies Pentagon-Sprecher Parnell einen Medienbericht zurueck, wonach hochrangige US-Militaers vor einer Verlaengerung des Iran-Einsatzes gewarnt haetten, und bezeichnete die Veroeffentlichung geheimer Lageberichte als Verbrechen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "f74419bd7d08f5df52dafd3dcf7758f6a69f965435148955510b0c85ba459c44",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_14e7581656e1",
+  "company_ids": [],
+  "target_country_codes": [
+    "US"
+  ]
+}

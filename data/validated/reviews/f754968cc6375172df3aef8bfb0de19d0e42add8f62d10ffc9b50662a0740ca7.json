@@ -1,0 +1,18 @@
+{
+  "candidate_id": "f754968cc6375172df3aef8bfb0de19d0e42add8f62d10ffc9b50662a0740ca7",
+  "document_id": "6f8f02306cc5227a6b49ba558eb6dedf43b4f979cd4361fde894333112bd7e41",
+  "candidate_type": "date",
+  "review_count": 1,
+  "latest_decision": "confirmed",
+  "reviews": [
+    {
+      "review_id": "aef74e45640adf1b4711ff9fbca73d9dea9bdb11273064e85ba08e09380b49a6",
+      "decision": "confirmed",
+      "semantic_role": "event_date",
+      "normalized_value": "2026-05-03",
+      "reviewer_note": "c",
+      "reviewed_by": "Markus",
+      "reviewed_at": "2026-09-02T15:34:16.122300+00:00"
+    }
+  ]
+}

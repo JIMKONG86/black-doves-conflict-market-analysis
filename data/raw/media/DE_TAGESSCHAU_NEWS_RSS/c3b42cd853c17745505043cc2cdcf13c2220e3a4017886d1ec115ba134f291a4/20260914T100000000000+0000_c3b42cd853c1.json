@@ -1,0 +1,30 @@
+{
+  "document_id": "c3b42cd853c17745505043cc2cdcf13c2220e3a4017886d1ec115ba134f291a4",
+  "source_id": "DE_TAGESSCHAU_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "tagesschau.de news RSS",
+  "source_type": "html",
+  "url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "canonical_url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "query": "*",
+  "title": "Iran droht mit weitreichender Vergeltung",
+  "publisher": "ARD-aktuell",
+  "author": null,
+  "published_at": "2026-02-28T11:31:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut Tagesschau-Liveblog hat das iranische Militaer nach Beginn der Angriffe eine entschlossene Reaktion angekuendigt und laut staatlichem Rundfunk erklaert, Israel und den USA eine beispiellose Lektion erteilen zu wollen; der Aussenamtssprecher sprach von einem offenkundigen Verbrechen und forderte eine Dringlichkeitssitzung des UN-Sicherheitsrats. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "1e6da21a273abae6950e0e5ba23029c668c1d61572a27748d969f0234db64cad",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T10:00:00+00:00",
+  "version_id": "20260914T100000000000+0000_c3b42cd853c1",
+  "company_ids": [],
+  "target_country_codes": [
+    "IL",
+    "US"
+  ]
+}

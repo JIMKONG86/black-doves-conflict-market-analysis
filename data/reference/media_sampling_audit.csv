@@ -1,0 +1,4 @@
+audit_id,measure,numerator,denominator,share_pct,reporting_period,source_name,source_url,estimation_status,notes
+MSA-001,RND share of all pilot documents,178,247,72.064777,2026 pilot,"Derived from supplied media-positioning corpus",user-supplied/black_doves_changed_files_only.zip,DERIVED_COVERAGE_AUDIT_ONLY,"Document count is valid for diagnosing the supplied sample; it is not a population estimate of media attention."
+MSA-002,RND share of NEWS-layer pilot documents,178,206,86.407767,2026 pilot,"Derived from supplied media-positioning corpus",user-supplied/black_doves_changed_files_only.zip,DERIVED_COVERAGE_AUDIT_ONLY,"The denominator excludes state-organization and television records."
+MSA-003,Human-reviewed pilot documents,0,247,0.000000,2026 pilot,"Derived from supplied media-positioning corpus",user-supplied/black_doves_changed_files_only.zip,DERIVED_COVERAGE_AUDIT_ONLY,"AUTO_SUGGESTED and UNCLASSIFIED rows are not treated as validated media evidence."

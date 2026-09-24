@@ -1,0 +1,30 @@
+{
+  "document_id": "20081a37a911aca2cc581627180e095b5c4d483ffaab96d01ade59c099f5ea4c",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran meldet sieben Todesopfer nach US-Angriffen in Chusestan",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-02T09:15:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker berichtete Irna unter Berufung auf den Vizegouverneur der Industrieprovinz Chusestan von sieben Todesopfern und acht Verletzten nach Raketenangriffen auf die Staedte Ahwas und Aghadschari. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "c3a51d959367bbab4033f30dda1e8f297c066b474e24f82e35c552f20eb26882",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_20081a37a911",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

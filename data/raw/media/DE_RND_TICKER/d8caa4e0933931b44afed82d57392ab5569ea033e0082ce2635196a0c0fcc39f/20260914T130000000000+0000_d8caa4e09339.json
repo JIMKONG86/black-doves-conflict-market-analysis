@@ -1,0 +1,30 @@
+{
+  "document_id": "d8caa4e0933931b44afed82d57392ab5569ea033e0082ce2635196a0c0fcc39f",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran stellt neue Bedingungen fuer Oeffnung der Strasse von Hormus",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-09T06:45:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker verlangte Irans Nationaler Sicherheitsrat, die USA duerften die Islamische Republik nie wieder bedrohen und muessten den Krieg gegen Iran und seine regionalen Verbuendeten beenden, als Bedingungen fuer eine Oeffnung der Meerenge. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "4fabc79b071017bff21a7143aa3d9b72034bf3b58d997816b346f87d9253be61",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_d8caa4e09339",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

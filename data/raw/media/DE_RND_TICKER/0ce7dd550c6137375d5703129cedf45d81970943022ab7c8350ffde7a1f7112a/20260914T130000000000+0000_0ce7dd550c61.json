@@ -1,0 +1,30 @@
+{
+  "document_id": "0ce7dd550c6137375d5703129cedf45d81970943022ab7c8350ffde7a1f7112a",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump droht Iran mit beispiellosem Wirtschaftskrieg",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-20T01:43:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker drohte Trump angesichts ausbleibender Verhandlungserfolge mit einem beispiellosen Wirtschaftskrieg gegen den Iran und warnte Drittstaaten samt ihrer Finanzinstitutionen vor gewaltigen wirtschaftlichen Konsequenzen bei Unterstuetzung Teherans. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "8325c8a333eea81925944b681bc6d5e9d1a59d96b693a815c4f72a535a4bd413",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_0ce7dd550c61",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

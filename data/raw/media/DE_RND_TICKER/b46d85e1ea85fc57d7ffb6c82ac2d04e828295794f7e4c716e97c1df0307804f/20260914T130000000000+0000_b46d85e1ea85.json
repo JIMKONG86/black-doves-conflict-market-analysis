@@ -1,0 +1,30 @@
+{
+  "document_id": "b46d85e1ea85fc57d7ffb6c82ac2d04e828295794f7e4c716e97c1df0307804f",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran bezeichnet US-Sanktionen in UN-Brief als Wirtschaftsterrorismus",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-26T23:20:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker verurteilte Aussenminister Araghtschi in einem an die Vereinten Nationen gerichteten Brief die angedrohten US-Sanktionen als Akt staatlichen und wirtschaftlichen Terrorismus gegen die rechtmaessigen Wirtschaftsbeziehungen des Irans. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "9bef5b5984174268467d07241389de45374eed1169144329c9132d2e557eb95f",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_b46d85e1ea85",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "75af11bb2a26a590a074602c35c687ad298789099294caba74d55a1d02972d6a",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump: Iran-Krieg wird von Zwischenwahlen nicht beeinflusst",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-03T06:36:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker erklaerte Trump, der Krieg werde ihn nicht von den Zwischenwahlen beeinflussen lassen und werde vermutlich nicht mehr viel laenger dauern. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "4e7899d012bb1a55c4472e5d486896bbd7e9e08523058ab4e45b67e188f3a3ba",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_75af11bb2a26",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

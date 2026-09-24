@@ -1,0 +1,30 @@
+{
+  "document_id": "bcba0791a85cc1dede1dc8b498877e5226b6278a6c91309816a9e9e6e594f0de",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Pakistan: Iran-USA-Waffenruhe soll um 60 bis 90 Tage verlaengert werden",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-12T13:15:00+05:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker erfuhr die dpa von mit den Gespraechen vertrauten Personen, die Mitte Juni vereinbarte Waffenruhe solle laut pakistanischen Sicherheitskreisen um weitere 60 bis 90 Tage verlaengert werden. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "0d5daa1d8183ef8845138811d330b06247887bd8c8fa3923065861e4dfb9ecb0",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_bcba0791a85c",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

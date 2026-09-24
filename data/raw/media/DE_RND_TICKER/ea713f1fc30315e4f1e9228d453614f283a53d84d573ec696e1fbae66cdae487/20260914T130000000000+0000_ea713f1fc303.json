@@ -1,0 +1,30 @@
+{
+  "document_id": "ea713f1fc30315e4f1e9228d453614f283a53d84d573ec696e1fbae66cdae487",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran greift zwei US-Stuetzpunkte in Jordanien mit acht Raketen an",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-31T03:44:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker erklaerten die Revolutionsgarden, die kombinierte Drohnen- und Raketenattacke auf zwei US-Stuetzpunkte in Jordanien sei Vergeltung fuer den Angriff auf die Insel Larak gewesen; Jordanien habe acht Raketen abgefangen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "afc4a6f5439a93273b81388bf61b4c071ca15e75b4e174369411b60fd7879684",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_ea713f1fc303",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

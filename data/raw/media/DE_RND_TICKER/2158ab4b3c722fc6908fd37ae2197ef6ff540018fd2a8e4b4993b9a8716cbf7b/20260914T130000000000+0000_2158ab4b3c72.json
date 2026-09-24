@@ -1,0 +1,30 @@
+{
+  "document_id": "2158ab4b3c722fc6908fd37ae2197ef6ff540018fd2a8e4b4993b9a8716cbf7b",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Irans Revolutionsgarden beharren auf voller Kontrolle ueber Strasse von Hormus",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-29T07:26:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker bezeichneten die Revolutionsgarden die US-Behauptung einer offenen Meerenge als glatte Luege, die nur dazu diene, Oelpreise zu kontrollieren und die eigene Niederlage zu vertuschen - ein direkter Deutungskonflikt ueber den zentralen Wirtschaftsfaktor des Kriegs. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "675b7921ac97bf68a90e19e78d9cb63e14e31e84779580989475d290ad974ef1",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_2158ab4b3c72",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

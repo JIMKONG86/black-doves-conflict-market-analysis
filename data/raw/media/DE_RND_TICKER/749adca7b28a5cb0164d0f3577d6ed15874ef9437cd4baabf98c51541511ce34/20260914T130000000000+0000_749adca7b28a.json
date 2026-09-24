@@ -1,0 +1,30 @@
+{
+  "document_id": "749adca7b28a5cb0164d0f3577d6ed15874ef9437cd4baabf98c51541511ce34",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "AP-Recherche: US-Militaer fehlen in Europa kritisch Abfangraketen wegen Iran-Konflikt",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-27T18:09:00+02:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker berichtete die AP unter Berufung auf einen US-Verteidigungsvertreter und einen Nato-Vertreter von einem 'mehr als kritischen' Mangel an modernen Abfangraketen in Europa, massgeblich verursacht durch den Iran-Konflikt, was Sorgen ueber die Verwundbarkeit der Nato-Ostflanke schuert. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "5e454f48219455ece8a831f9f4ae91e35211b9ed161f3bbf216138975a467bd4",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_749adca7b28a",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

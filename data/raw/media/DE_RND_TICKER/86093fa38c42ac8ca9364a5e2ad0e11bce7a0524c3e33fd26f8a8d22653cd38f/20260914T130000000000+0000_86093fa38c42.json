@@ -1,0 +1,30 @@
+{
+  "document_id": "86093fa38c42ac8ca9364a5e2ad0e11bce7a0524c3e33fd26f8a8d22653cd38f",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Bessent sieht Chance fuer Iran-Deal zur Hormus-Oeffnung binnen Tagen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-04T14:42:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Finanzminister Bessent, es bestehe die Chance auf eine Einigung mit dem Iran zur Oeffnung der Meerenge noch am selben oder folgenden Tag, ohne dass eine solche Einigung zu diesem Zeitpunkt bereits vorlag. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "1e37a1a6f8780c4ef818363a1c1ceb4325af0b4e76c10b8def4c5023bdca0b50",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_86093fa38c42",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

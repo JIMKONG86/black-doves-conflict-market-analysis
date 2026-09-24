@@ -1,0 +1,30 @@
+{
+  "document_id": "40e4540da81866b30697e6267fe89835fda48c072ee423a5657cc1960f5e9a7f",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Bessent: US-Verbuendete muessen sich im Iran-Konflikt positionieren",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-20T18:46:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Finanzminister Bessent CNBC, es sei an der Zeit, dass Verbuendete und der Rest der Welt eine Entscheidung treffen muessten - entweder auf US-Seite oder dagegen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "f5b50dc5c8c27c297a3220ccf037fbfb11d8db1cb06867dcf2428083527d1e61",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_40e4540da818",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

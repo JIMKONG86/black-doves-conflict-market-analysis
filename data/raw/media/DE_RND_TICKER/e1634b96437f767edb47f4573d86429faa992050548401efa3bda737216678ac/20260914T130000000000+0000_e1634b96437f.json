@@ -1,0 +1,30 @@
+{
+  "document_id": "e1634b96437f767edb47f4573d86429faa992050548401efa3bda737216678ac",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran macht Oeffnung der Strasse von Hormus von Umsetzung des Rahmenabkommens abhaengig",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-18T11:42:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Irans Parlamentspraesident Ghalibaf, die Meerenge bleibe geschlossen, solange die USA das Mitte Juni unterzeichnete Rahmenabkommen nicht umsetzten. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "d69f94e989eec6acbef708c8cdd1e82bc00d13ba084c19e61599441aee7b898a",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_e1634b96437f",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "55d330c785ae2028e13ba711265fa9718f6b27f7d9eaf8141c84c9f0b9736037",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Putin verspricht Peseschkian Russlands weitere Unterstuetzung",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-01T17:15:00+06:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sicherte Kremlchef Putin bei einem Treffen in Bischkek dem iranischen Praesidenten Peseschkian weitere russische Unterstuetzung und Warenlieferungen fuer das von den USA angegriffene Land zu, ohne Details zu nennen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "f57eaaf2a05b6fe7927ad42d3eaf768cc6d1080d34a47e8f547a50459610e1b4",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_55d330c785ae",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

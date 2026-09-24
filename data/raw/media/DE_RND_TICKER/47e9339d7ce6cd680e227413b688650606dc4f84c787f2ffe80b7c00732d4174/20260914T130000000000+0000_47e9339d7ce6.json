@@ -1,0 +1,29 @@
+{
+  "document_id": "47e9339d7ce6cd680e227413b688650606dc4f84c787f2ffe80b7c00732d4174",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Teheran will Metrostationen im Krieg als Bunker nutzen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-08T10:32:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker arbeitet die iranische Hauptstadt Teheran an einem Konzept, wonach die Bevoelkerung Metrostationen kuenftig als Schutzraeume im Krieg nutzen soll; im Gegensatz zu vielen Gegenden in Israel gebe es im Iran kein flaechendeckendes Schutzraumkonzept, Luftangriffe traefen die Bevoelkerung oft ueberraschend. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "6d9211c28f90960a8e7ee4c2e5aaa96ed2f812b2379353eb8f1d3f976bd3c5b1",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_47e9339d7ce6",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

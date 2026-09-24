@@ -1,0 +1,22 @@
+.venv/
+.venv_original_copy/
+__pycache__/
+**/__pycache__/
+*.pyc
+.pytest_cache/
+app.log
+.vscode/
+output/*
+!output/.gitkeep
+data/raw/research/
+data/processed/research/
+data/processed/candidates/
+
+# Secrets
+.env
+.acled_tokens.json
+
+# ACLED data exports
+data/raw/acled/*.csv
+data/raw/acled/*.xlsx
+data/processed/acled/*.csv

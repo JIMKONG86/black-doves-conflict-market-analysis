@@ -1,0 +1,29 @@
+{
+  "document_id": "034a9500c15ad89a16a79205645031cf680715da5d2f5bca9002d85be9cc23d1",
+  "source_id": "DE_ZDF_HEUTE_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "heute.de news liveblog / RSS",
+  "source_type": "html",
+  "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+  "canonical_url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+  "query": "*",
+  "title": "US-Marine meldet rund 100 gestoppte Schiffe bei Iran-Seeblockade",
+  "publisher": "ZDF",
+  "author": null,
+  "published_at": "2026-09-13T02:28:00+00:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut ZDF-Liveblog hat das US-Regionalkommando CENTCOM mitgeteilt, im Zuge der Seeblockade iranischer Häfen seien in den vergangenen zwei Monaten rund 100 Handelsschiffe gestoppt worden; kein Schiff habe die Blockade ohne Genehmigung der US-Streitkräfte passiert. Paraphrasierte Zusammenfassung, kein wörtliches Zitat.",
+  "content_hash": "9bea84a4e756f9266fafdb67b21782b421b9f5a70a052e002034e56fa120e9e8",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T04:16:34+00:00",
+  "version_id": "20260914T041634000000+0000_034a9500c15a",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

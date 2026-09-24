@@ -1,0 +1,29 @@
+{
+  "document_id": "d8f400b8da2678b7352854c5181bd1a01b1264274aadb28abf561a7353069b9c",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran ruft im Jemen-Konflikt zwischen Saudi-Arabien und Huthi zu Dialog auf",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-25T14:06:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker rief Aussenminister Araghtschi angesichts der Eskalation zwischen Saudi-Arabien und der Huthi-Miliz zu Dialog auf und erklaerte, es gebe keine militaerische Loesung fuer den Jemen-Konflikt. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "2b607c49810018283dc5bec55227573f5ef977fff9b98403c29772f30f6ec2eb",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_d8f400b8da26",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "ed2cc90d9a2f2e87587bcf9b2527026ab259403d0cd1794f2a5ab24d3842c183",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump droht Huthi und Iran mit massiver militaerischer Bestrafung",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-23T15:38:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker drohte Trump der Huthi-Miliz bei weiteren Schiffsangriffen mit massiver militaerischer Bestrafung und kuendigte an, in diesem Fall den Iran als Drahtzieher zur Rechenschaft zu ziehen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "a3b98a4cf677a5e8e3e3a35320a4fe4f7425fafdd138f1fe9fd2178b58858531",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_ed2cc90d9a2f",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

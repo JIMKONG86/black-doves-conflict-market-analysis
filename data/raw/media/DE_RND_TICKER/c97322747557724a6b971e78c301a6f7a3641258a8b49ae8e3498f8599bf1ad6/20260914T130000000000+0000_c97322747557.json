@@ -1,0 +1,30 @@
+{
+  "document_id": "c97322747557724a6b971e78c301a6f7a3641258a8b49ae8e3498f8599bf1ad6",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran meldet getoetete Sicherheitskraefte bei US-Angriffen (vier Revolutionsgarden, zehn Basidsch)",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-02T16:58:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker meldete die iranische Fuehrung nach juengsten US-Angriffen vier getoetete Angehoerige der Revolutionsgarde und zehn getoetete Basidsch-Milizionaere. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "6433b3e7add4fdbbd3f4572827ae097bbc7f04dcddeae31393e3204b3a8b14b6",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_c97322747557",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

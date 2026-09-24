@@ -1,0 +1,30 @@
+{
+  "document_id": "2ee3e069a4dcf45e24c529926f5afa7a846ad8345a1da5c91be51571fa2eefc4",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Dax erreicht erneuten Rekord bei 26.202 Punkten dank Hoffnung auf Iran-Einigung",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-04T17:48:00+02:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker schloss der deutsche Leitindex Dax 0,77 Prozent im Plus bei 26.202,35 Punkten, ein neuer Rekord nach dem Sprung ueber die psychologisch wichtige 26.000-Punkte-Marke, im Kontext der Hoffnung auf eine Iran-Einigung zur Strasse von Hormus. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "efb9bc39b3621ab8fb9c7b8875d4656c0354c1f99fb838ebe26ccefa0ebcb29f",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_2ee3e069a4dc",
+  "company_ids": [],
+  "target_country_codes": [
+    "DE",
+    "IR"
+  ]
+}

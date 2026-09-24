@@ -1,0 +1,29 @@
+{
+  "document_id": "73620ed9cf004c0d9c45881aa0e4b91af88512959d3779acd13790e16b01f654",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Kuwait meldet abgefangene iranische Raketen und Drohnen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-03T11:13:00+03:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker meldete Kuwait die erfolgreiche Abwehr mehrerer iranischer Raketen und Drohnen, ohne Angaben zu Zielen oder Schaeden zu machen; Kuwait war im Kriegsverlauf wiederholt Ziel iranischer Vergeltungsangriffe wegen der dort stationierten US-Truppen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "06fe28ca0592c47cae2b580fe5b3e4df7b9a8cb579413847680a74b6a6a38b2d",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_73620ed9cf00",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

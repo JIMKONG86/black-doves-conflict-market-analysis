@@ -1,0 +1,30 @@
+{
+  "document_id": "62ffb0bc605f3cf9e7da2de3ce13c37679fb5d48b18037a24f42d3a8754c6e96",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Rubio wirft Iran mangelnde Ernsthaftigkeit bei Verhandlungen vor",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-23T11:44:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Aussenminister Rubio, Teheran fuehre zwar Gespraeche, sei aber offenbar nicht wirklich an einer belastbaren Vereinbarung zur Beendigung des Kriegs interessiert. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "2ba0bfd0892fda4659464d0b54df139bba36fafa160d9ef9f9bef75c7a502c24",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_62ffb0bc605f",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "ac50f251d375ed643b5058a5b90c872331bdca453cf3d935d104a008cfcd9261",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Netanjahu: Sturz der iranischen Fuehrung bleibt Hauptziel",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-03T19:04:00+03:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker bekraeftigte Israels Regierungschef Netanjahu, der Sturz der iranischen Fuehrung bleibe ein zentrales Ziel des Kriegs, auch wenn dies nicht das offizielle Kriegsziel der USA sei. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "b024feb5eb1c49e76fb41a4858b96b55e6f4da2717d4613b738b416d1150c0f5",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_ac50f251d375",
+  "company_ids": [],
+  "target_country_codes": [
+    "IL",
+    "IR"
+  ]
+}

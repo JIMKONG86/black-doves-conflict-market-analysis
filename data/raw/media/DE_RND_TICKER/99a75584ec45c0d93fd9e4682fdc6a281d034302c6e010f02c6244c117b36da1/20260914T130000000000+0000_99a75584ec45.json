@@ -1,0 +1,30 @@
+{
+  "document_id": "99a75584ec45c0d93fd9e4682fdc6a281d034302c6e010f02c6244c117b36da1",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump will Iran nicht zu Verhandlungen zwingen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-02T04:07:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker schrieb Trump, es sei ihm egal, ob der Iran ein aus seiner Sicht wertloses Abkommen unterzeichne, da die USA fast vollstaendige Kontrolle ueber die Strasse von Hormus haetten. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "bd5957607bbe7ec2ce5364baf7e066a18f817868f46cbfbc934449d66461fef4",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_99a75584ec45",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

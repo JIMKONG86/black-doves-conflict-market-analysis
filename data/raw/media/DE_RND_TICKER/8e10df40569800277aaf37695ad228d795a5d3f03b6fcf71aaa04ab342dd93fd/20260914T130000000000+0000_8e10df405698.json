@@ -1,0 +1,30 @@
+{
+  "document_id": "8e10df40569800277aaf37695ad228d795a5d3f03b6fcf71aaa04ab342dd93fd",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump wechselte nach glaubwuerdiger iranischer Drohung das Flugzeug",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-27T05:23:00+00:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker verzichtete Trump am 8. Juli nach einer von US-Sicherheitsdiensten als glaubwuerdig eingestuften iranischen Drohung darauf, die neue, von Katar geschenkte Boeing 747-8 zu nutzen, und flog stattdessen mit der bisherigen Air Force One zurueck. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "90576527d603bf724fc65b75cd55fdc7e0a357ec21e50a6a4af7b1310c1a635e",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_8e10df405698",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

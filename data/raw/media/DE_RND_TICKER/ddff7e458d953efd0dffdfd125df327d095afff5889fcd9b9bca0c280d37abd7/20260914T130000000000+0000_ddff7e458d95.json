@@ -1,0 +1,30 @@
+{
+  "document_id": "ddff7e458d953efd0dffdfd125df327d095afff5889fcd9b9bca0c280d37abd7",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Vance will Kaempfe mit Iran nicht als Krieg bezeichnen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-04T06:17:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker vermied es US-Vizepraesident Vance, die andauernden Kampfhandlungen mit dem Iran offiziell als Krieg zu bezeichnen, im Einklang mit der zurueckhaltenden rechtlichen Sprachregelung der US-Regierung zu militaerischen Einsaetzen ohne Kriegserklaerung des Kongresses. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "e96f8ea9f1c2a8058812f943978ad018d52e8d47423d40201a1fc125b9ee5d97",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_ddff7e458d95",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

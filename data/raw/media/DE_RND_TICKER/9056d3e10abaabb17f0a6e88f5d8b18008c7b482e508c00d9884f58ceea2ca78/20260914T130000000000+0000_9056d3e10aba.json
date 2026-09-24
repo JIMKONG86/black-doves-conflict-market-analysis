@@ -1,0 +1,30 @@
+{
+  "document_id": "9056d3e10abaabb17f0a6e88f5d8b18008c7b482e508c00d9884f58ceea2ca78",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "USA starten Operation Economic Outcast gegen alle Einnahmequellen der Revolutionsgarden",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-24T19:37:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker kuendigte Finanzminister Bessent neue Sanktionen unter dem Namen Operation Economic Outcast an, die jede potenzielle Einnahmequelle der iranischen Revolutionsgarden unterbinden und den Iran vollstaendig von der Weltwirtschaft isolieren sollen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "a7f4546f25d6c9509e0c7704a037cafd271b144ba92585ec68a19c8e25e5148e",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_9056d3e10aba",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

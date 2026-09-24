@@ -1,0 +1,31 @@
+{
+  "document_id": "24bbda32f52eab61026aac7be74f5941e98bf9f904caa1f1a5222be8b0dee7cf",
+  "source_id": "DE_ZDF_HEUTE_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "heute.de news liveblog / RSS",
+  "source_type": "html",
+  "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+  "canonical_url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+  "query": "*",
+  "title": "Xi Jinping ruft beim BRICS-Gipfel zu mehr Nahost-Engagement auf",
+  "publisher": "ZDF",
+  "author": null,
+  "published_at": "2026-09-12T15:04:00+08:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut ZDF-Liveblog hat Chinas Staatschef Xi Jinping beim BRICS-Gipfeltreffen in Neu-Delhi mehr Engagement der Mitgliedstaaten fuer Frieden im Nahen Osten und in der Golfregion gefordert und China als bereit bezeichnet, dazu beizutragen; die Lage in der Region sei komplex. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "a06f9f8424f40a558e0b8d80a9185308db5f7c36608a0047a4071082c16564cd",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T04:16:34+00:00",
+  "version_id": "20260914T041634000000+0000_24bbda32f52e",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US",
+    "IL"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "67aa7137507ab253e08efe209a6dbc9ed6666c6be09d5835d27d2ab3040167d8",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran: US-Blockade illegal und zerstoererisch, Wiedergutmachung gefordert",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-10T14:38:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker forderte Aussenamtssprecher Baghaei die USA auf, ihre nach iranischer Darstellung illegalen und zerstoererischen Handlungen einzustellen und Wiedergutmachung fuer die Seeblockade zu leisten. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "b859876375279bc0e345b79442b58ef3e40702de396644c7ea850f6e354a35af",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_67aa7137507a",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

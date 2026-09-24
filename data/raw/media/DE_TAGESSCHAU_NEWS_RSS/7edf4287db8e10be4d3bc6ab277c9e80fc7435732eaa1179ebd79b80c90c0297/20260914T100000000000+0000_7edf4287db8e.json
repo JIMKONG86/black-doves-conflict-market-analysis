@@ -1,0 +1,31 @@
+{
+  "document_id": "7edf4287db8e10be4d3bc6ab277c9e80fc7435732eaa1179ebd79b80c90c0297",
+  "source_id": "DE_TAGESSCHAU_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "tagesschau.de news RSS",
+  "source_type": "html",
+  "url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "canonical_url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "query": "*",
+  "title": "UN-Generalsekretaer verurteilt militaerische Eskalation",
+  "publisher": "ARD-aktuell",
+  "author": null,
+  "published_at": "2026-02-28T15:59:00+01:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut Tagesschau-Liveblog hat UN-Generalsekretaer Guterres die militaerische Eskalation im Nahen Osten verurteilt und erklaert, sowohl die Gewaltanwendung durch die USA und Israel gegen Iran als auch die anschliessenden iranischen Vergeltungsmassnahmen untergruben den internationalen Frieden. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "32f40e6e1badf257083f8ff05fe5561b1875a55641fec3df03928682ec921caf",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T10:00:00+00:00",
+  "version_id": "20260914T100000000000+0000_7edf4287db8e",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "IL",
+    "US"
+  ]
+}

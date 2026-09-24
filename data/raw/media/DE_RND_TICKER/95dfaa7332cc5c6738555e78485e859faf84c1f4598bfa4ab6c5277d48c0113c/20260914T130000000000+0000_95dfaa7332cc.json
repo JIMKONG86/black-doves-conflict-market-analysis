@@ -1,0 +1,29 @@
+{
+  "document_id": "95dfaa7332cc5c6738555e78485e859faf84c1f4598bfa4ab6c5277d48c0113c",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran gewaehrt irakischen Oeltankern freie Fahrt durch Strasse von Hormus",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-22T11:00:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker erteilte der Iran laut Irna mehreren irakischen Oeltankern eine Sondergenehmigung zur Durchfahrt der Strasse von Hormus, eine zentrale Forderung der irakischen Fuehrung beim Bagdad-Besuch von Ghalibaf. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "4ac444cc0a970c0841e4daaaa378b6404a9119b3e127918df6f0390021416cee",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_95dfaa7332cc",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

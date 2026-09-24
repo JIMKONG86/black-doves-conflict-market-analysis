@@ -1,0 +1,29 @@
+{
+  "document_id": "4b3f8cbf14fc59aa224bb7ec9d26596d0887f282b7ba5b75756bb32ac4a94b39",
+  "source_id": "DE_TAGESSCHAU_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "tagesschau.de news RSS",
+  "source_type": "html",
+  "url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "canonical_url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "query": "*",
+  "title": "Iran schraenkt Berichterstattung auslaendischer Journalisten ein",
+  "publisher": "ARD-aktuell",
+  "author": null,
+  "published_at": "2026-02-28T20:32:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut Tagesschau-Liveblog hat der Iran laut Kultusministerium die Berichterstattung auslaendischer Journalisten und Fotografen weiter eingeschraenkt; Bilder und Informationen ueber angegriffene Ziele duerften nur noch mit Genehmigung des Generalstabs veroeffentlicht werden, ebenso Statistiken zu militaerischen oder zivilen Opfern vor offizieller Bestaetigung. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "53e1052cd1bc22efe70e9cd44e71e8730583ba269390b91069d40aa7b26ffc21",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T10:00:00+00:00",
+  "version_id": "20260914T100000000000+0000_4b3f8cbf14fc",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

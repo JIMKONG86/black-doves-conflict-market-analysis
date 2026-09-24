@@ -1,0 +1,31 @@
+{
+  "document_id": "89acd12b5048b152d3d55468ba4e52fc65c9e724a9d977112bc9b5e01bd64163",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Klingbeil fordert vor G20-Treffen Ende des Iran-Kriegs und Uebergewinnsteuer",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-28T15:53:00+02:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker bekraeftigte der deutsche Vizekanzler und Finanzminister Klingbeil (SPD) vor einem G20-Treffen in Asheville im ARD-Interview der Woche seine Forderung an die USA, den Krieg gegen den Iran zu beenden, und machte Praesident Trump fuer die hohen Spritpreise verantwortlich; zugleich erneuerte er seine Forderung nach einer europaweiten Uebergewinnsteuer auf die durch die geopolitische Lage gestiegenen Gewinne der Oelkonzerne, ein Thema fuer das EU-Finanzministertreffen am 19. September in Dublin. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "fabaf1a2de91dad3cdae70608e8b924e9babc8a12dd361bf6618d2e0c0a03deb",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_89acd12b5048",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US",
+    "DE"
+  ]
+}

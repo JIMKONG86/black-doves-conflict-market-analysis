@@ -1,0 +1,29 @@
+{
+  "document_id": "49e756a3f09211753c5f0b605bf2b25af4555694dc1ce80cdcac52abad08d55c",
+  "source_id": "DE_ZDF_HEUTE_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "heute.de news liveblog / RSS",
+  "source_type": "html",
+  "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+  "canonical_url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+  "query": "*",
+  "title": "Liveblog: Iranischer Militärsprecher meldet Wechsel zu offensiver Doktrin",
+  "publisher": "ZDF",
+  "author": null,
+  "published_at": "2026-08-25T09:00:00+02:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "date",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Im ZDF-Liveblog zum Iran-Krieg wird ein iranischer Militärsprecher zitiert, wonach die Streitkräfte neue Ausrüstung von der heimischen Rüstungsindustrie und der Armee erhalten hätten, teils auch aus dem Ausland importiert; die Ausrüstung habe die Kampfkraft verbessert. Der Sprecher habe zudem bestätigt, dass der Iran seine Militärdoktrin von defensiv auf offensiv umgestellt habe - ein von der Redaktion als Eskalation der iranischen Militärhaltung eingeordneter Schritt. Paraphrasierte Zusammenfassung, kein wörtliches Zitat; Original siehe Quell-URL.",
+  "content_hash": "a98bd859c9529e8347e762a1ab1bda58babecd4c14eeac09d9154f79d1c95cf4",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T00:00:00+00:00",
+  "version_id": "20260914T000000000000+0000_manual_pilot",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

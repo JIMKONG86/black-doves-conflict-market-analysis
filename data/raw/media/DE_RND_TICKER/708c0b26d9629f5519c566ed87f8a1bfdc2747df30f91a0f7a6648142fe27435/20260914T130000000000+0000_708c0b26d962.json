@@ -1,0 +1,30 @@
+{
+  "document_id": "708c0b26d9629f5519c566ed87f8a1bfdc2747df30f91a0f7a6648142fe27435",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Pentagon beziffert US-Verwundete im Iran-Krieg auf 757",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-21T01:10:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker bezifferte das Pentagon die Zahl der seit Kriegsbeginn im Februar verwundeten US-Streitkraefte auf 757 (davon ueber 580 beim Heer, 86 bei der Marine, 64 bei der Luftwaffe, 19 Marineinfanteristen); Ende Juli habe das Pentagon zudem eine neue Erfassungskategorie 'Overseas Operations' fuer Verwundete eingefuehrt, nachdem die offizielle 'Operation Epic Fury' fuer beendet erklaert wurde - ein methodischer Bruch in der eigenen Verlustzaehlung. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "52ffdd69db960fbff38b34c4c63defd09571d70e8f271e24ad7368b5cc60f945",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_708c0b26d962",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

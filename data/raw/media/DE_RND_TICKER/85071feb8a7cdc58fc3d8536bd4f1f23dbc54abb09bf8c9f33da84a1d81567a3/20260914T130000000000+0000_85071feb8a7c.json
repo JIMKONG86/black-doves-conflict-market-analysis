@@ -1,0 +1,30 @@
+{
+  "document_id": "85071feb8a7cdc58fc3d8536bd4f1f23dbc54abb09bf8c9f33da84a1d81567a3",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "US-Ausschusschef unterstuetzt neue Angriffe auf den Iran",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-01T22:24:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker bezeichnete der Vorsitzende des Auswaertigen Ausschusses im US-Repraesentantenhaus, Brian Mast (Republikaner), die neuen Angriffe als klug angesichts eines Feindes, der einen endlosen Krieg gegen die USA fuehre. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "2490c67225ad1ba3cdca5008da9e98c00cdf129df21b60fae704b8565a9cee1e",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_85071feb8a7c",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "29b2c8f46799c716265383915c2abce5e2cdea5e538dea8000d990990dac8d36",
+  "source_id": "DE_TAGESSCHAU_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "tagesschau.de news RSS",
+  "source_type": "html",
+  "url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "canonical_url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "query": "*",
+  "title": "Klingbeil ruft zur Rueckkehr an den Verhandlungstisch auf",
+  "publisher": "ARD-aktuell",
+  "author": null,
+  "published_at": "2026-02-28T18:39:00+01:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut Tagesschau-Liveblog hat Vizekanzler Klingbeil vor einer weiteren Verschaerfung der militaerischen Lage gewarnt und die iranischen Vergeltungsschlaege als gefaehrliche Eskalation mit unabsehbaren Folgen fuer die regionale Sicherheit bezeichnet; er appellierte an alle Seiten, an den Verhandlungstisch zurueckzukehren. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "293e1b3d71c528c514593d25cd07f54ec5c7bfe5288bc775d8175d6b8b7356fb",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T10:00:00+00:00",
+  "version_id": "20260914T100000000000+0000_29b2c8f46799",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "c3b1272380129af34fd4b0ad8d8488140db492465f0b66e877736c43880d2990",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "US-Flugzeugtraeger Abraham Lincoln nach Nahost-Einsatz in Thailand eingetroffen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-02T03:28:00+07:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker traf der Flugzeugtraeger USS Abraham Lincoln mit rund 5.000 Soldaten nach seinem Einsatz gegen den Iran im thailaendischen Hafen Laem Chabang ein, gemeinsam mit dem Zerstoerer Frank E. Petersen Jr.. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "0ea96efabbdf7501010dbf3fc0955b6aa71d3a510a613b19f6bedb74fc7df375",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_c3b127238012",
+  "company_ids": [],
+  "target_country_codes": [
+    "US"
+  ]
+}

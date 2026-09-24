@@ -1,0 +1,29 @@
+{
+  "document_id": "941c0ec56f30c1dd523a1d2f323d88fc45605f566a761af15e83b4f0fcfba4c9",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump droht mit Haftstrafen bei Berichten ueber Waffenengpaesse",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-06T10:23:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker trat Trump auf Truth Social Berichten ueber angeblich schwindende US-Munitionsvorraete infolge des Iran-Kriegs entgegen und drohte deren Verbreitern mit langen Haftstrafen; die USA verfuegten ueber gewaltige Munitionsmengen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "ae60c2487d623c5d8086f0b4460dd184636ef372c0cba3be419d7950bf2f9880",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_941c0ec56f30",
+  "company_ids": [],
+  "target_country_codes": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+source_layer,category_code,category_label,reviewed_document_count,reviewed_layer_total,reviewed_share,suggested_document_count,suggested_layer_total,suggested_share
+STATE_ORGAN,MILITARY_OPERATIONS_SECURITY,Military operations & security claims,0,0,,25,34,0.7352941176470589
+STATE_ORGAN,DIPLOMACY_MEDIATION_DEESCALATION,"Diplomacy, mediation & de-escalation",0,0,,0,34,0.0
+STATE_ORGAN,PROCUREMENT_MILITARY_CAPABILITY,Procurement & military capability,0,0,,5,34,0.14705882352941177
+STATE_ORGAN,SANCTIONS_ECONOMIC_MEASURES,Sanctions & economic measures,0,0,,0,34,0.0
+STATE_ORGAN,ENERGY_TRADE_DEPENDENCY,"Energy, trade & dependency",0,0,,2,34,0.058823529411764705
+STATE_ORGAN,HUMANITARIAN_CIVILIAN_IMPACT,Humanitarian & civilian impact,0,0,,0,34,0.0
+STATE_ORGAN,DOMESTIC_POLITICS_LAW_BUDGET,"Domestic politics, law & budget",0,0,,2,34,0.058823529411764705
+NEWS,MILITARY_OPERATIONS_SECURITY,Military operations & security claims,0,0,,51,88,0.5795454545454546
+NEWS,DIPLOMACY_MEDIATION_DEESCALATION,"Diplomacy, mediation & de-escalation",0,0,,14,88,0.1590909090909091
+NEWS,PROCUREMENT_MILITARY_CAPABILITY,Procurement & military capability,0,0,,2,88,0.022727272727272728
+NEWS,SANCTIONS_ECONOMIC_MEASURES,Sanctions & economic measures,0,0,,10,88,0.11363636363636363
+NEWS,ENERGY_TRADE_DEPENDENCY,"Energy, trade & dependency",0,0,,0,88,0.0
+NEWS,HUMANITARIAN_CIVILIAN_IMPACT,Humanitarian & civilian impact,0,0,,2,88,0.022727272727272728
+NEWS,DOMESTIC_POLITICS_LAW_BUDGET,"Domestic politics, law & budget",0,0,,0,88,0.0
+TELEVISION,MILITARY_OPERATIONS_SECURITY,Military operations & security claims,0,0,,0,1,0.0
+TELEVISION,DIPLOMACY_MEDIATION_DEESCALATION,"Diplomacy, mediation & de-escalation",0,0,,1,1,1.0
+TELEVISION,PROCUREMENT_MILITARY_CAPABILITY,Procurement & military capability,0,0,,0,1,0.0
+TELEVISION,SANCTIONS_ECONOMIC_MEASURES,Sanctions & economic measures,0,0,,0,1,0.0
+TELEVISION,ENERGY_TRADE_DEPENDENCY,"Energy, trade & dependency",0,0,,0,1,0.0
+TELEVISION,HUMANITARIAN_CIVILIAN_IMPACT,Humanitarian & civilian impact,0,0,,0,1,0.0
+TELEVISION,DOMESTIC_POLITICS_LAW_BUDGET,"Domestic politics, law & budget",0,0,,0,1,0.0

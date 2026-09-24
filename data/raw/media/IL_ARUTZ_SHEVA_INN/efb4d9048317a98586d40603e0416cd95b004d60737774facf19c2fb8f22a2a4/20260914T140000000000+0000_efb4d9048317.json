@@ -1,0 +1,31 @@
+{
+  "document_id": "efb4d9048317a98586d40603e0416cd95b004d60737774facf19c2fb8f22a2a4",
+  "source_id": "IL_ARUTZ_SHEVA_INN",
+  "source_country_code": "IL",
+  "source_name": "israelnationalnews.com search/article pages",
+  "source_type": "html",
+  "url": "https://www.israelnationalnews.com/news/428802",
+  "canonical_url": "https://www.israelnationalnews.com/news/428802",
+  "query": "iran",
+  "title": "Irans Chefunterhaendler Ghalibaf erklaert im Staatsfernsehen Kriegssieg ueber USA und Israel",
+  "publisher": "Israel National News (Arutz Sheva)",
+  "author": null,
+  "published_at": "2026-06-18T02:25:00+03:00",
+  "publication_timezone": "Asia/Jerusalem",
+  "date_precision": "datetime",
+  "jurisdiction": "Israel",
+  "language": "de",
+  "content": "Laut Israel National News erklaerte Irans Parlamentspraesident und Chefunterhaendler Ghalibaf in einer Ansprache im Staatsfernsehen, der Iran sei aus dem Krieg gegen USA und Israel als Sieger hervorgegangen und habe die neun strategischen Ziele der Gegner vereitelt; er bekraeftigte zugleich, die Strasse von Hormus werde nie in den Vorkriegszustand zurueckkehren, werde aber im Rahmen des internationalen Rechts genutzt. Laut dem damals veroeffentlichten Rahmenabkommen verpflichteten sich die USA im Gegenzug zur Aufhebung der Seeblockade, zur Streichung aller Sanktionen und zu einem mindestens 300 Milliarden Dollar schweren Wiederaufbauplan fuer Iran. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "c77dd808d8b4f8c85d0bc599ce6b10458a6ccd4b954b9f3ae16f426fda8b9e67",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T14:00:00+00:00",
+  "version_id": "20260914T140000000000+0000_efb4d9048317",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US",
+    "IL"
+  ]
+}

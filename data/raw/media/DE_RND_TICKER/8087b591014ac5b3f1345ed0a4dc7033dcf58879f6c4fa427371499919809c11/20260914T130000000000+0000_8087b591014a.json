@@ -1,0 +1,29 @@
+{
+  "document_id": "8087b591014ac5b3f1345ed0a4dc7033dcf58879f6c4fa427371499919809c11",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Britische Marine meldet zwei weitere Schiffsangriffe an der Meerenge von Hormus",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-01T12:47:00+00:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker meldete die UKMTO zwei Vorfaelle: drei Geschosse trafen einen Tanker beim Verlassen des Persischen Golfs, ein zweiter Vorfall folgte; Verletzte oder Umweltschaeden wurden nicht gemeldet. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "5e8b8535858ec35190d9f062e767daf1b63575e04221022ab659250c376bc487",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_8087b591014a",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "73c73b67b2dd22d85d1fb89540140cb4157a15398b59fc8141857577669e79f6",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump: US-Angriffe zielen auf Wiederaufbau iranischer Radaranlagen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-01T21:53:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Trump Fox News, die juengsten Angriffe haetten dem Wiederaufbau iranischer Radaranlagen gegolten, die zuvor weitgehend zerstoert worden seien; das US-Militaer habe den Wiederaufbau beobachtet und daraufhin erneut angegriffen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "1d2908269c85e579855ebf4b517ba63424f02f32260018015f40777b664e32aa",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_73c73b67b2dd",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "fd49dab6162795dcd1238c82503a3ca2dd4224e395f7eb76ab8559ac14be6961",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "US-Regierung zieht Berliner-Mauerfall-Vergleich in Propaganda an iranische Soldaten",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-24T21:04:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker richtete sich die US-Regierung mit einem an den Mauerfall 1989 angelehnten Appell an einfache iranische Soldaten, angesichts ausbleibender Soldzahlungen ihre Loyalitaet zum Regime zu hinterfragen - ein Element psychologischer Kriegsfuehrung. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "0de595688e515ccd0af0cc1d618d53c19eb872c4e3f2832033cc8fdf8b50132d",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_fd49dab61627",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

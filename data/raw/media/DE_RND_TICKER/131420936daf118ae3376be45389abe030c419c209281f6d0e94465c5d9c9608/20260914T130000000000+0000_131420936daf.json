@@ -1,0 +1,30 @@
+{
+  "document_id": "131420936daf118ae3376be45389abe030c419c209281f6d0e94465c5d9c9608",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran kritisiert Einschraenkung von Englisch-Sprachtests durch US-Sanktionen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-01T11:39:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker bezeichnete Irans Wissenschaftsminister Simai Saraf die sanktionsbedingte Einschraenkung eines renommierten Englisch-Sprachtests als Verhalten aus der Steinzeit, das Land durch Sanktionen zur Kapitulation zwingen zu wollen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "22848e1876447d963f4507d700d462f8e64d0542bb768afba46e493982ae0c66",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_131420936daf",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

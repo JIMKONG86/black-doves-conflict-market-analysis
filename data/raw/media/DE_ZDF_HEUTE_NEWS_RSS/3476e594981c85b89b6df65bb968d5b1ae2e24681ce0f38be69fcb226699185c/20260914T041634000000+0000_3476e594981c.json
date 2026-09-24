@@ -1,0 +1,29 @@
+{
+  "document_id": "3476e594981c85b89b6df65bb968d5b1ae2e24681ce0f38be69fcb226699185c",
+  "source_id": "DE_ZDF_HEUTE_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "heute.de news liveblog / RSS",
+  "source_type": "html",
+  "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+  "canonical_url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+  "query": "*",
+  "title": "Trump sieht Iran hinter Angriff auf saudische Pipeline",
+  "publisher": "ZDF",
+  "author": null,
+  "published_at": "2026-09-12T14:16:00+02:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut ZDF-Liveblog hat US-Präsident Donald Trump auf Nachfrage von Reportern geäußert, er halte es für wahrscheinlich, dass der Iran hinter dem Drohnenangriff auf eine saudische Ölpipeline stecke, und beschrieb die Lage als derzeit sehr angespannt. Paraphrasierte Zusammenfassung, kein wörtliches Zitat.",
+  "content_hash": "4c1159c28d2e2aa524a83c61bdaa48253718ae95fe4fafc56c8516ac1c9c30af",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T04:16:34+00:00",
+  "version_id": "20260914T041634000000+0000_3476e594981c",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

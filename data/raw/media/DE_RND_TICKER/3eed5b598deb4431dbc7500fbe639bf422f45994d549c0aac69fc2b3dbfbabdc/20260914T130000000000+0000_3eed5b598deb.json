@@ -1,0 +1,30 @@
+{
+  "document_id": "3eed5b598deb4431dbc7500fbe639bf422f45994d549c0aac69fc2b3dbfbabdc",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump droht Iran mit weitaus groesserer Haerte",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-01T22:42:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker schrieb Trump auf Truth Social, aktuelle US-Angriffe nahe der Strasse von Hormus seien Vergeltung fuer gescheiterte iranische Versuche, neue Seeminen zu legen, und drohte mit weitaus groesserer Haerte im Wiederholungsfall. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "02742664fa56c9e65def45c4ee4c9dfb396b2c8c8722b4bbd749451d407faf91",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_3eed5b598deb",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

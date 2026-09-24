@@ -1,0 +1,31 @@
+{
+  "document_id": "36025339fefcfe5e5ad74df3916b3ff0fb041ba0977d6603869f824358493e99",
+  "source_id": "US_CBS_NEWS_RSS",
+  "source_country_code": "US",
+  "source_name": "cbsnews.com articles (CBS News television division)",
+  "source_type": "html",
+  "url": "https://www.cbsnews.com/news/missile-crisis-the-hard-truths-about-americas-military-arsenal/",
+  "canonical_url": "https://www.cbsnews.com/news/missile-crisis-the-hard-truths-about-americas-military-arsenal/",
+  "query": "*",
+  "title": "Missile crisis: the hard truths about America's military arsenal",
+  "publisher": "CBS News",
+  "author": null,
+  "published_at": "2026-09-13T00:00:00-04:00",
+  "publication_timezone": "America/New_York",
+  "date_precision": "date",
+  "jurisdiction": "United States",
+  "language": "en",
+  "content": "CBS News reported that Lockheed Martin has signed a contract worth roughly $59 billion to build additional Patriot interceptors, on top of a separate, smaller contract for lower-cost missiles, as the Pentagon works to replenish stockpiles depleted during the war with Iran. A defense analyst interviewed for the segment estimated it could take one to five years to rebuild stockpiles to pre-war levels, depending on the specific munition. Paraphrased summary, not a verbatim transcript or article reproduction; see the source URL for the original wording.",
+  "content_hash": "1bc36fa85257d72b766dec9732d462dfec944e9fad40715765aeea6e82aa44a8",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T00:00:00+00:00",
+  "version_id": "20260914T000000000000+0000_manual_pilot",
+  "company_ids": [
+    "CMP027"
+  ],
+  "target_country_codes": [
+    "IR"
+  ]
+}

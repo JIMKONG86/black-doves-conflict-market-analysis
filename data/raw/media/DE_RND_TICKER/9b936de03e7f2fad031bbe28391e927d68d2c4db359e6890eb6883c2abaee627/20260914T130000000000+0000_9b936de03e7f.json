@@ -1,0 +1,30 @@
+{
+  "document_id": "9b936de03e7f2fad031bbe28391e927d68d2c4db359e6890eb6883c2abaee627",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Erdogan ruft Trump zu Fortsetzung der Diplomatie im Iran-Krieg auf",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-18T10:03:00+03:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker rief der tuerkische Praesident Erdogan in einem Telefonat mit Trump zur Fortsetzung diplomatischer Bemuehungen im Iran-Krieg auf und aeusserte Hoffnung auf baldige Wiederaufnahme der Verhandlungen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "234d9c7d3873544c8e88e6a69c5b9f3e10e52757d32137af37d9254e8559d006",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_9b936de03e7f",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "ea515a64781da2577952e4010e0ba776214e3451189229862c081015bb335dbe",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran kuendigt Sperrzone vor Strasse von Hormus an",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-07T09:56:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker kuendigte der neue Leiter von Irans Oberstem Nationalem Sicherheitsrat, Resai, eine Sperrzone vor der Strasse von Hormus gegen Schiffe an, die die Meerenge durchqueren wollten; jedes identifizierte Schiff in der Zone komme auf Irans Sanktionsliste. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "402aa7dacca960a50fe1a5fecbfe2ae5aec891a5ae6eb1dcb9ee54f277a5d00f",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_ea515a64781d",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

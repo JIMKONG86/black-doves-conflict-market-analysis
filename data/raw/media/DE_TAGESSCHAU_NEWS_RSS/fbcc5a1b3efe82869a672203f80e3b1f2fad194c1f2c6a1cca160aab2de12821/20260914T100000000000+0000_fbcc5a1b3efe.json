@@ -1,0 +1,29 @@
+{
+  "document_id": "fbcc5a1b3efe82869a672203f80e3b1f2fad194c1f2c6a1cca160aab2de12821",
+  "source_id": "DE_TAGESSCHAU_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "tagesschau.de news RSS",
+  "source_type": "html",
+  "url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "canonical_url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "query": "*",
+  "title": "Trump meldet Tod von Irans oberstem Fuehrer Chamenei",
+  "publisher": "ARD-aktuell",
+  "author": null,
+  "published_at": "2026-02-28T22:59:00-05:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut Tagesschau-Liveblog hat US-Praesident Trump auf Truth Social den Tod von Irans oberstem Fuehrer Ayatollah Ali Chamenei verkuendet und erklaert, die Bombardierungen wuerden fortgesetzt, bis das Ziel eines Friedens in der Region erreicht sei; eine unabhaengige Bestaetigung aus dem Iran gab es zu diesem Zeitpunkt nicht. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "09528952f34a8d9c252eb3f8a52729da137510a7b1d9b39640204a69175520ff",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T10:00:00+00:00",
+  "version_id": "20260914T100000000000+0000_fbcc5a1b3efe",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

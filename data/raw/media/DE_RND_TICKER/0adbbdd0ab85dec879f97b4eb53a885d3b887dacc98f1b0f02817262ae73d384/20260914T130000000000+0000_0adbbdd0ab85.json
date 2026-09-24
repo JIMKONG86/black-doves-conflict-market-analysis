@@ -1,0 +1,30 @@
+{
+  "document_id": "0adbbdd0ab85dec879f97b4eb53a885d3b887dacc98f1b0f02817262ae73d384",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iranischer Vizegouverneur meldet weiteren toedlichen Angriff auf Hochzeitsgesellschaft in Kuhestak",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-01T22:09:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker berichtete der Vizegouverneur der Provinz Hormusgan, Nafissi, von einem US-Angriff auf ein Haus in Kuhestak waehrend einer Hochzeitsfeier mit zwei Toten und zwei Verletzten - ein von dem fruehereren Sirik-Vorfall getrennter Vorfall. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "d30505fd3141159b7c9a9a654f8d9e59bbd47baf86495a9c28f637671f23a6ef",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_0adbbdd0ab85",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

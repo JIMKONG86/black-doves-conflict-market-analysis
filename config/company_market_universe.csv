@@ -1,0 +1,47 @@
+company_id,company_name,market_data_ticker,benchmark_ticker,trade_currency,primary_listing_exchange,analysis_tier,role_category,is_confirmatory
+CMP001,Airbus SE,AIR.PA,^FCHI,EUR,Euronext Paris,PRIMARY_DIRECT,Defence Contractor,YES
+CMP002,Apple Inc.,AAPL,^GSPC,USD,Nasdaq,SECONDARY_INDIRECT,Technology & Component Supplier,NO
+CMP003,BAE Systems plc,BA.L,^FTSE,GBP,London Stock Exchange,PRIMARY_DIRECT,Defence Contractor,NO
+CMP004,Bayer AG,BAYN.DE,^GDAXI,EUR,Xetra,SECONDARY_INDIRECT,Biotechnology & Components,NO
+CMP005,BlackRock Inc.,BLK,^GSPC,USD,NYSE,CONTEXT_FINANCIAL,Investment & Finance,NO
+CMP006,BP p.l.c.,BP.L,^FTSE,GBP,London Stock Exchange,PRIMARY_DIRECT,Raw Materials & Energy,NO
+CMP007,Canadian Natural Resources Limited,CNQ.TO,^GSPTSE,CAD,Toronto Stock Exchange,PRIMARY_DIRECT,Raw Materials & Energy,NO
+CMP008,Caterpillar Inc.,CAT,^DJI,USD,NYSE,PRIMARY_DIRECT,Military Heavy Equipment Supplier,NO
+CMP009,"Contemporary Amperex Technology Co., Limited (CATL)",300750.SZ,000300.SS,CNY,Shenzhen Stock Exchange,SECONDARY_INDIRECT,Technology & Component Supplier,NO
+CMP010,Chevron Corporation,CVX,^GSPC,USD,NYSE,PRIMARY_DIRECT,Raw Materials & Energy,NO
+CMP011,CNOOC Limited,0883.HK,^HSI,HKD,Hong Kong Stock Exchange,PRIMARY_DIRECT,Raw Materials & Energy,NO
+CMP012,ConocoPhillips,COP,^GSPC,USD,NYSE,PRIMARY_DIRECT,Raw Materials & Energy,NO
+CMP013,"CrowdStrike Holdings, Inc.",CRWD,^NDX,USD,Nasdaq,SECONDARY_INDIRECT,Technical Infrastructure & Software,NO
+CMP014,DHL AG,DHL.DE,^GDAXI,EUR,Xetra,SECONDARY_INDIRECT,Transport & Logistics,NO
+CMP015,Duke Energy Corporation,DUK,^GSPC,USD,NYSE,PRIMARY_DIRECT,Raw Materials & Energy,NO
+CMP016,Eli Lilly and Company,LLY,^GSPC,USD,NYSE,SECONDARY_INDIRECT,Biotechnology & Components,NO
+CMP017,Enbridge Inc.,ENB.TO,^GSPTSE,CAD,Toronto Stock Exchange,PRIMARY_DIRECT,Raw Materials & Energy,NO
+CMP018,Equinor ASA,EQNR.OL,OBX.OL,NOK,Oslo Børs,PRIMARY_DIRECT,Raw Materials & Energy,NO
+CMP019,Exxon Mobil Corporation,XOM,^GSPC,USD,NYSE,PRIMARY_DIRECT,Raw Materials & Energy,YES
+CMP020,FedEx Corporation,FDX,^GSPC,USD,NYSE,SECONDARY_INDIRECT,Transport & Logistics,NO
+CMP021,GE Vernova Inc.,GEV,^GSPC,USD,NYSE,PRIMARY_DIRECT,Raw Materials & Energy,NO
+CMP022,General Dynamics Corporation,GD,^GSPC,USD,NYSE,PRIMARY_DIRECT,Defence Contractor,NO
+CMP023,"The Goldman Sachs Group, Inc.",GS,^DJI,USD,NYSE,CONTEXT_FINANCIAL,Investment & Finance,NO
+CMP024,HENSOLDT AG,HAG.DE,^MDAXI,EUR,Xetra,PRIMARY_DIRECT,Defence Contractor,YES
+CMP025,HOCHTIEF Aktiengesellschaft,HOT.DE,^GDAXI,EUR,Xetra,SECONDARY_INDIRECT,Construction,NO
+CMP026,"Iberdrola, S.A.",IBE.MC,^IBEX,EUR,Bolsa de Madrid,PRIMARY_DIRECT,Raw Materials & Energy,NO
+CMP027,Lockheed Martin Corporation,LMT,^GSPC,USD,NYSE,PRIMARY_DIRECT,Defence Contractor,YES
+CMP028,Marathon Petroleum Corporation,MPC,^GSPC,USD,NYSE,PRIMARY_DIRECT,Raw Materials & Energy,NO
+CMP029,"NextEra Energy, Inc.",NEE,^GSPC,USD,NYSE,PRIMARY_DIRECT,Raw Materials & Energy,NO
+CMP030,Northrop Grumman Corporation,NOC,^GSPC,USD,NYSE,PRIMARY_DIRECT,Defence Contractor,NO
+CMP031,Novo Nordisk A/S,NOVO-B.CO,^OMXC25,DKK,Nasdaq Copenhagen,SECONDARY_INDIRECT,Biotechnology & Components,NO
+CMP032,NVIDIA Corporation,NVDA,^GSPC,USD,Nasdaq,SECONDARY_INDIRECT,Technology & Component Supplier,NO
+CMP033,Palantir Technologies Inc.,PLTR,^GSPC,USD,Nasdaq,PRIMARY_DIRECT,Defence AI & Decision Intelligence Supplier,NO
+CMP034,PetroChina Company Limited,601857.SS,000001.SS,CNY,Shanghai Stock Exchange,PRIMARY_DIRECT,Raw Materials & Energy,NO
+CMP035,Rheinmetall AG,RHM.DE,^GDAXI,EUR,Xetra,PRIMARY_DIRECT,Defence Contractor,YES
+CMP036,RTX Corporation,RTX,^GSPC,USD,NYSE,PRIMARY_DIRECT,Defence Contractor,YES
+CMP037,RWE AG,RWE.DE,^GDAXI,EUR,Xetra,PRIMARY_DIRECT,Raw Materials & Energy,NO
+CMP038,Sanofi,SAN.PA,^FCHI,EUR,Euronext Paris,SECONDARY_INDIRECT,Biotechnology & Components,NO
+CMP039,SAP SE,SAP.DE,^GDAXI,EUR,Xetra,SECONDARY_INDIRECT,Technical Infrastructure & Software,NO
+CMP040,Saudi Arabian Oil Company,2222.SR,^TASI.SR,SAR,Saudi Exchange (Tadawul),PRIMARY_DIRECT,Raw Materials & Energy,NO
+CMP041,Shell plc,SHEL.L,^FTSE,GBP,London Stock Exchange,PRIMARY_DIRECT,Raw Materials & Energy,YES
+CMP042,China Petroleum & Chemical Corporation (Sinopec Corp.),600028.SS,000001.SS,CNY,Shanghai Stock Exchange,PRIMARY_DIRECT,Raw Materials & Energy,YES
+CMP043,The Southern Company,SO,^GSPC,USD,NYSE,PRIMARY_DIRECT,Raw Materials & Energy,NO
+CMP044,Thales S.A.,HO.PA,^FCHI,EUR,Euronext Paris,PRIMARY_DIRECT,Defence Contractor,NO
+CMP045,TotalEnergies SE,TTE.PA,^FCHI,EUR,Euronext Paris,PRIMARY_DIRECT,Raw Materials & Energy,NO
+CMP046,Volkswagen AG,VOW.DE,^GDAXI,EUR,Xetra,POST_HOC_EXPLORATORY_ROBUSTNESS_CASE,Automotive Manufacturer,NO

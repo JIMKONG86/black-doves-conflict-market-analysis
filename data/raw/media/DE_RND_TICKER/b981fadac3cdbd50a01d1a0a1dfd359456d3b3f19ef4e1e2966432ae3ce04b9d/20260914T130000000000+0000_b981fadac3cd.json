@@ -1,0 +1,30 @@
+{
+  "document_id": "b981fadac3cdbd50a01d1a0a1dfd359456d3b3f19ef4e1e2966432ae3ce04b9d",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump: Strasse von Hormus vollstaendig unter US-Kontrolle, Iran wirtschaftlich am Ende",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-12T06:20:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Trump vor Journalisten, die USA haetten die Strasse von Hormus vollstaendig unter Kontrolle und der Iran sei finanziell am Ende, koenne aber weiterhin Probleme machen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "2ad4aa311a56abf27de692485946697d0fce748b0b3f3604e91cb19e1cc79261",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_b981fadac3cd",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "1dbb3f8c8cf9ef8741e0892c88ec16f57177b9af8a3e3f011572fbaf85c1b321",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Grossbritannien zieht Botschaftspersonal voruebergehend aus Teheran ab",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-23T06:55:00+01:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker zog das Vereinigte Koenigreich diplomatisches Personal seiner Botschaft in Teheran wegen zunehmender Spannungen und juengster Angriffe auf die iranische Hauptstadt voruebergehend ab. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "03e42932be414b9ccd13310334a0f7b31e94676525536efae3e5c9f65131e0ba",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_1dbb3f8c8cf9",
+  "company_ids": [],
+  "target_country_codes": [
+    "GB",
+    "IR"
+  ]
+}

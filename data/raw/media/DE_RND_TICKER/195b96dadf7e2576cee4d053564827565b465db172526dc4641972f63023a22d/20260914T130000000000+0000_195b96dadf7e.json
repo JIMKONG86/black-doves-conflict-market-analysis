@@ -1,0 +1,29 @@
+{
+  "document_id": "195b96dadf7e2576cee4d053564827565b465db172526dc4641972f63023a22d",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Kpler-Daten: Nur acht Schiffe passierten Strasse von Hormus an einem Tag",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-07T11:06:00+00:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker gingen aus der dpa vorliegenden Daten des Anbieters Kpler hervor, dass trotz ausbleibender gegenseitiger Angriffe nur acht Schiffe die Strasse von Hormus an einem Donnerstag passierten - ein Beleg fuer die anhaltend massive Stoerung der Schifffahrt. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "cf0669cc6bb6bd6fa6905afdc80299eb925681ad6c99beaa8343d100e416c790",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_195b96dadf7e",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "fbb90acc1da0a751e336a0c06bc85389eece8fa2470da087993f5db15968d706",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "IMO: 19 Seeleute seit Kriegsbeginn getoetet, Tausende auf Schiffen festgesessen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-28T00:00:00+02:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker teilte die Internationale Seeschifffahrtsorganisation (IMO) mit, seit Kriegsbeginn vor einem halben Jahr seien 19 Seeleute bei Angriffen auf die internationale Schifffahrt getoetet worden; mindestens 6.000 weitere Besatzungsmitglieder saessen auf Hunderten Schiffen fest und koennten die Region nicht verlassen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "12cc2acadc3ccae867eed0e25974979036359aa6de97d9f3c1687c2a6d059156",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_fbb90acc1da0",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

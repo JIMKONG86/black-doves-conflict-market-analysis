@@ -1,0 +1,30 @@
+{
+  "document_id": "1768c99a07955000edcd3dfc32004e1d987edf7962ae28c2bd77e520d36149b4",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Bericht: USA entsenden ueber 150 Sanitaeter nach Landstuhl in Deutschland",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-23T11:15:00+02:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker berichtete das Wall Street Journal, im US-Lazarett Landstuhl in Rheinland-Pfalz seien in den vergangenen Tagen mehr als 150 zusaetzliche Sanitaeter eingetroffen, was auf eine moegliche Ausweitung der US-Angriffe im Iran-Krieg hindeuten koenne - eine direkte militaerlogistische Verbindung des Kriegs zu deutschem Boden. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "f69b4aadd65dfe6979c77b9b634a8c8cfb33fada44f320c246f995e7064887c9",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_1768c99a0795",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "DE"
+  ]
+}

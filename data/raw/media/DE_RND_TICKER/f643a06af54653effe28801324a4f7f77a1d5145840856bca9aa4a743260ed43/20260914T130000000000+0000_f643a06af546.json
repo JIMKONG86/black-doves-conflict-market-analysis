@@ -1,0 +1,30 @@
+{
+  "document_id": "f643a06af54653effe28801324a4f7f77a1d5145840856bca9aa4a743260ed43",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran meldet erstmals US-Beschuss im Norden des Landes, Marinebasis am Kaspischen Meer getroffen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-24T10:08:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker berichtete Irna unter Berufung auf einen Vizegouverneur erstmals von US-Beschuss im Norden Irans - eine Marinebasis am Kaspischen Meer sei getroffen worden, waehrend sich Angriffe zuvor meist auf den Sueden beschraenkt hatten. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "aacc7d7dfa060e7a97201c38c3365f11b332781a00cf21809358490235865452",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_f643a06af546",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

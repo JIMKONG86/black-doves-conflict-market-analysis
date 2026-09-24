@@ -1,0 +1,30 @@
+{
+  "document_id": "d5cf3e578c60d9cab6a9aee3217727a052dbc86a591423e8c2a3c756e8eb4090",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Irans Aussenminister: Druck der USA funktioniert nicht, Diplomatie moeglich",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-28T10:00:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker schrieb Aussenminister Araghtschi auf X, es sei nicht unmoeglich, die Diplomatie wieder auf Kurs zu bringen, warnte aber, dass Druck nicht funktioniere und die USA stattdessen Vertrauen aufbauen und die Rechte des Irans respektieren sollten. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "70198727fc5f8d9bfe8e567785d1ef68f9666d35c10a690090d00d86b7150a5b",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_d5cf3e578c60",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

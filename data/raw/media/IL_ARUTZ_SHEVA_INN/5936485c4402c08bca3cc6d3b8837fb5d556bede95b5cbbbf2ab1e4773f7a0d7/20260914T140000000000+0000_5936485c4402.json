@@ -1,0 +1,30 @@
+{
+  "document_id": "5936485c4402c08bca3cc6d3b8837fb5d556bede95b5cbbbf2ab1e4773f7a0d7",
+  "source_id": "IL_ARUTZ_SHEVA_INN",
+  "source_country_code": "IL",
+  "source_name": "israelnationalnews.com search/article pages",
+  "source_type": "html",
+  "url": "https://www.israelnationalnews.com/news/431858",
+  "canonical_url": "https://www.israelnationalnews.com/news/431858",
+  "query": "iran",
+  "title": "Irans Revolutionsgarden weisen Trumps Behauptung geheimer Hintergrundgespraeche zurueck",
+  "publisher": "Israel National News (Arutz Sheva)",
+  "author": null,
+  "published_at": "2026-08-18T06:20:00+03:00",
+  "publication_timezone": "Asia/Jerusalem",
+  "date_precision": "datetime",
+  "jurisdiction": "Israel",
+  "language": "de",
+  "content": "Laut Israel National News bezeichnete ein IRGC-Sprecher laut der Nachrichtenagentur Tasnim Trumps Behauptung eines geheimen Kommunikationskanals zwischen Washington und den Revolutionsgarden als Wahnvorstellung; auch das iranische Aussenministerium dementierte Berichte ueber inoffizielle Kontakte ueber irakisch-kurdische Vermittler. Trump selbst erklaerte am selben Tag, er strebe keine Verlaengerung des im Juni vereinbarten Rahmenabkommens an und bekraeftigte, die USA haetten durch die Seeblockade volle Kontrolle ueber die Strasse von Hormus, durch die weiterhin woechentlich Millionen Barrel Oel flossen und wo die Oelpreise weiter sinken wuerden. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "34d04780d1a8c1f76718e6d5a7f4a7bd81dda272c32d0c524d87728547f7e56f",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T14:00:00+00:00",
+  "version_id": "20260914T140000000000+0000_5936485c4402",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

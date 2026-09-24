@@ -1,0 +1,29 @@
+{
+  "document_id": "28b039249334a49e1f05e7eff04433ce5bd86d61cfe00f5aebf00554019d4050",
+  "source_id": "DE_TAGESSCHAU_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "tagesschau.de news RSS",
+  "source_type": "html",
+  "url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "canonical_url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "query": "*",
+  "title": "Merz, Macron und Starmer verurteilen iranische Gegenangriffe",
+  "publisher": "ARD-aktuell",
+  "author": null,
+  "published_at": "2026-02-28T14:57:00+01:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut Tagesschau-Liveblog haben Deutschland, Frankreich und Grossbritannien in einer gemeinsamen Erklaerung von Bundeskanzler Merz, Praesident Macron und Premier Starmer die iranischen Gegenangriffe auf Staaten der Region scharf verurteilt und Iran zur Rueckkehr an den Verhandlungstisch aufgefordert. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "b7f637ab86d0471c6331349398bed8f0576b90453cfa8ecd02827aabee19e688",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T10:00:00+00:00",
+  "version_id": "20260914T100000000000+0000_28b039249334",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "candidate_id": "f0d29e0293fca6f5a5517e69c9825cc8322f889701494fd78d3dc05c08c94547",
+  "document_id": "6f8f02306cc5227a6b49ba558eb6dedf43b4f979cd4361fde894333112bd7e41",
+  "candidate_type": "date",
+  "review_count": 1,
+  "latest_decision": "confirmed",
+  "reviews": [
+    {
+      "review_id": "9c7c0553675d0183c3bd18d085300bc9e52433a57bb10bb6df4c6574a4c73052",
+      "decision": "confirmed",
+      "semantic_role": "cited_source_date",
+      "normalized_value": "2026-05-03",
+      "reviewer_note": "Publication date of the cited Ukrainska Pravda article; not treated as an independently verified event date.",
+      "reviewed_by": "Markus",
+      "reviewed_at": "2026-09-03T09:55:29.946163+00:00"
+    }
+  ]
+}

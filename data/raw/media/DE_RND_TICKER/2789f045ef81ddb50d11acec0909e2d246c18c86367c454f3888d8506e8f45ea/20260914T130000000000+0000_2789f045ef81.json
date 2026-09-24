@@ -1,0 +1,30 @@
+{
+  "document_id": "2789f045ef81ddb50d11acec0909e2d246c18c86367c454f3888d8506e8f45ea",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Katz droht Iran mit Rueckversetzung in die Steinzeit",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-03T13:35:00+03:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker drohte Israels Verteidigungsminister Katz dem Iran im Fall eines weiteren Angriffs mit einer Rueckversetzung in die Steinzeit, eine deutliche Verschaerfung der israelischen Rhetorik gegenueber Teheran. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "ab82a439075d0e41c9e97744a0df8e0f13a4f6dfc95f3645390f5ce83fa1b19a",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_2789f045ef81",
+  "company_ids": [],
+  "target_country_codes": [
+    "IL",
+    "IR"
+  ]
+}

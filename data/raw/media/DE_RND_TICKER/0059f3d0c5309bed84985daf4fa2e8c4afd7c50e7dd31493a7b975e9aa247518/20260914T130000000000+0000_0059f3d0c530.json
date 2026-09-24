@@ -1,0 +1,30 @@
+{
+  "document_id": "0059f3d0c5309bed84985daf4fa2e8c4afd7c50e7dd31493a7b975e9aa247518",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Deutsche Exporte trotz Iran-Krieg im Juni auf Rekordwert von 139,3 Milliarden Euro",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-07T08:35:00+02:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker meldete das Statistische Bundesamt fuer Juni kalender- und saisonbereinigte deutsche Exporte im Wert von 139,3 Milliarden Euro, 0,9 Prozent mehr als im Mai und 6,6 Prozent mehr als ein Jahr zuvor, trotz aller Belastungen durch den Iran-Krieg. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "393716e6e85ad13e2c68dc8af38446d70a4a570bcaaf240ee4e65fb53f6798b8",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_0059f3d0c530",
+  "company_ids": [],
+  "target_country_codes": [
+    "DE",
+    "IR"
+  ]
+}

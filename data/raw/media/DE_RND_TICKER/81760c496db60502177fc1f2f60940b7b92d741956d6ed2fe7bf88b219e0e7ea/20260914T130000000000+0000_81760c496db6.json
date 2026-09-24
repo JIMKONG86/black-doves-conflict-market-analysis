@@ -1,0 +1,30 @@
+{
+  "document_id": "81760c496db60502177fc1f2f60940b7b92d741956d6ed2fe7bf88b219e0e7ea",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump kuendigt neue Gespraechsrunde mit Iran an",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-03T03:47:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker kuendigte Trump nach der vorlaeufigen Absage weiterer Angriffe eine neue Gespraechsrunde mit iranischen Vertretern fuer denselben Tag an, ohne den Ort zu nennen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "7b799499b0e07b8a969fa604e16126c1003d4936a923724649f323a8c5a25337",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_81760c496db6",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

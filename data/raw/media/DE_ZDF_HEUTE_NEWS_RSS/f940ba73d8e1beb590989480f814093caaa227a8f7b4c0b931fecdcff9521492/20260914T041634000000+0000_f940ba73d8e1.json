@@ -1,0 +1,29 @@
+{
+  "document_id": "f940ba73d8e1beb590989480f814093caaa227a8f7b4c0b931fecdcff9521492",
+  "source_id": "DE_ZDF_HEUTE_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "heute.de news liveblog / RSS",
+  "source_type": "html",
+  "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+  "canonical_url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+  "query": "*",
+  "title": "Iran stellt Wiedereröffnung der Straße von Hormus in Aussicht",
+  "publisher": "ZDF",
+  "author": null,
+  "published_at": "2026-09-12T10:45:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut ZDF-Liveblog hat Irans Präsident Massud Peseschkian laut der Nachrichtenagentur Isna eine mögliche Wiedereröffnung der Straße von Hormus in Aussicht gestellt, dies jedoch an ein Ende der US-Seeblockade und militärischer Aktionen der US-Armee geknüpft. Paraphrasierte Zusammenfassung, kein wörtliches Zitat.",
+  "content_hash": "212af6ffef2d7fb26b4c346064e74a77d5146571328b88ce6b17b44c9a494399",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T04:16:34+00:00",
+  "version_id": "20260914T041634000000+0000_f940ba73d8e1",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "ea418a9d43bd9de051345780363f7c500531ca06a38485c63bff432344253b96",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump laesst Waffenlieferungen an iranische Opposition offen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-03T06:44:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker wich Trump der Frage aus, ob die USA die iranische Opposition mit Waffen zum Sturz der Theokratie ausstatten koennten, nachdem er zuvor die Bevoelkerung zum Aufstand aufgerufen hatte. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "dd60fcbff5bf49d4bb3dc74914228ed7195385457a95b36d0edd05fa1ec0441e",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_ea418a9d43bd",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

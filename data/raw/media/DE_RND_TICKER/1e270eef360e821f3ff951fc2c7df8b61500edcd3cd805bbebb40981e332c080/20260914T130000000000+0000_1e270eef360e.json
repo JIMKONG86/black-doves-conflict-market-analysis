@@ -1,0 +1,31 @@
+{
+  "document_id": "1e270eef360e821f3ff951fc2c7df8b61500edcd3cd805bbebb40981e332c080",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Deutschland, Frankreich, USA und Grossbritannien wollen Iran vor UN-Sicherheitsrat bringen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-05T16:34:00+02:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker wollen Deutschland, Frankreich, die USA und Grossbritannien mutmassliche Verstoesse des Irans gegen den Atomwaffensperrvertrag ueber einen Resolutionsentwurf im IAEA-Gouverneursrat an den UN-Sicherheitsrat verweisen; der Entwurf bekraeftige zugleich die Unterstuetzung fuer eine diplomatische Loesung im Atomstreit. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "cd646a2064bc26defb7625d0439441eb0edf316492a2dc0650f6444e41036d90",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_1e270eef360e",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "DE",
+    "US"
+  ]
+}

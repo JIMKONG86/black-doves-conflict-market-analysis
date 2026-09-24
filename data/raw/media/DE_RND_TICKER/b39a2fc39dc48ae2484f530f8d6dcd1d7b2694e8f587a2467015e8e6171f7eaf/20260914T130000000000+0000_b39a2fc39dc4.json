@@ -1,0 +1,29 @@
+{
+  "document_id": "b39a2fc39dc48ae2484f530f8d6dcd1d7b2694e8f587a2467015e8e6171f7eaf",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Kuwait: Iran griff Regierungsgebaeude im Norden des Landes an",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-01T14:26:00+03:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker meldete Kuwaits Aussenministerium einen iranischen Angriff auf ein Regierungsgebaeude sowie weitere wichtige Einrichtungen und Firmenfahrzeuge im Norden des Landes mittels Drohnen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "443b29c82d434fa67e209decaf4f540ab698655e744e8adafc506beb1d8a4f96",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_b39a2fc39dc4",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "document_id": "ea9d7784d5342cab6ec773fdc384d168e54db626623f7ee1de76d1e3ab561f7f",
+  "source_id": "IL_ARUTZ_SHEVA_INN",
+  "source_country_code": "IL",
+  "source_name": "israelnationalnews.com search/article pages",
+  "source_type": "html",
+  "url": "https://www.israelnationalnews.com/news/433043",
+  "canonical_url": "https://www.israelnationalnews.com/news/433043",
+  "query": "iran",
+  "title": "US-Vertreter bestaetigt: Iranischer Angriff beschaedigte US-Kampfjets auf jordanischem Stuetzpunkt, Patriot-Bestaende stark dezimiert",
+  "publisher": "Israel National News (Arutz Sheva)",
+  "author": null,
+  "published_at": "2026-09-11T04:18:00+03:00",
+  "publication_timezone": "Asia/Jerusalem",
+  "date_precision": "datetime",
+  "jurisdiction": "Israel",
+  "language": "de",
+  "content": "Laut Israel National News bestaetigte ein US-Vertreter gegenueber Reuters einen CBS-Bericht, wonach ein iranischer Raketenangriff auf die Muwaffaq-Salti-Luftwaffenbasis in Jordanien ein A-10-Flugzeug einen Fluegel kostete und rund acht F-15-Kampfjets leicht beschaedigte; die USA hatten zuvor mit der Zerstoerung von fuenf iranischen Öltankern reagiert und rund 30 Patriot-Abfangraketen (Hersteller RTX Corporation) zur Abwehr eingesetzt. Laut Reuters unter Berufung auf den Congressional Research Service seien bis Mai 42 US-Flugzeuge verloren oder beschaedigt worden, 18 US-Soldaten getoetet und mehr als 800 verwundet; eine CSIS-Schaetzung zufolge seien bereits rund 65 Prozent der verfuegbaren Patriot-Abfangraketen verbraucht worden, sodass von urspruenglich 2.330 weniger als 850 verblieben seien - eine direkt firmenrelevante Kennzahl zur Nachbeschaffungsnachfrage. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "18a2aebce73e3cde0aba15eb8968d0181e2ef5a59f69d8f4f780bea3beb6f655",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T14:00:00+00:00",
+  "version_id": "20260914T140000000000+0000_ea9d7784d534",
+  "company_ids": [
+    "CMP036"
+  ],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

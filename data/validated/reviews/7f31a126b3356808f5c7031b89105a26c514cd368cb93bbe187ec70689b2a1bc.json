@@ -1,0 +1,27 @@
+{
+  "candidate_id": "7f31a126b3356808f5c7031b89105a26c514cd368cb93bbe187ec70689b2a1bc",
+  "document_id": "6a0f115d6e9fd1c1873da279da415a5dd6ee74733ec2bfee11ceaa58eda23911",
+  "candidate_type": "date",
+  "review_count": 2,
+  "latest_decision": "confirmed",
+  "reviews": [
+    {
+      "review_id": "a268518276e343f40594c4d6ef7fca26f21320741f0cff36cc74e3ecc69640cc",
+      "decision": "confirmed",
+      "semantic_role": "document_date",
+      "normalized_value": "2026-08-31",
+      "reviewer_note": "Bundestag document date.",
+      "reviewed_by": "Markus",
+      "reviewed_at": "2026-09-03T10:12:10.474181+00:00"
+    },
+    {
+      "review_id": "5daea8206697d26a14393c84b025857395c64ccc0a631c3c374e74a827e6d533",
+      "decision": "confirmed",
+      "semantic_role": "document_date",
+      "normalized_value": "2026-08-31",
+      "reviewer_note": "1",
+      "reviewed_by": "Markus",
+      "reviewed_at": "2026-09-03T18:28:08.817136+00:00"
+    }
+  ]
+}

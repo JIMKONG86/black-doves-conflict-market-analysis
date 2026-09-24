@@ -1,0 +1,29 @@
+{
+  "document_id": "92b05e87a5509bc38a64647c67ca15ec1fe075dbd37060482334ffd19098d6cb",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Bericht: Generalstabschef Caine warnte Trump vor Munitionsengpaessen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-27T22:49:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker wiesen eingeweihte Kreise darauf hin, dass US-Generalstabschef Caine Trump ueber moegliche Auswirkungen begrenzter Munitionsbestaende auf die Militaeroperationen gegen den Iran informiert habe. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "b41dde0eb0f9414071b60a05e72df0a7eb6424ffcc074d9435914fd0d6e3e4d3",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_92b05e87a550",
+  "company_ids": [],
+  "target_country_codes": [
+    "US"
+  ]
+}

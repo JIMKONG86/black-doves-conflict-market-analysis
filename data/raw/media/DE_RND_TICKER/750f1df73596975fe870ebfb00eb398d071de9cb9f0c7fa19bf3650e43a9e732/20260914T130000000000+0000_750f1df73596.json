@@ -1,0 +1,30 @@
+{
+  "document_id": "750f1df73596975fe870ebfb00eb398d071de9cb9f0c7fa19bf3650e43a9e732",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump fordert Prozess gegen Iran wegen getoeteter Demonstranten",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-31T16:20:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker forderte Trump auf Truth Social eine Anklage der Verantwortlichen fuer den Tod von Demonstranten im Iran wegen Kriegsverbrechen gegen die Menschlichkeit, ohne ein konkretes Gericht zu benennen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "f2b7d7811ff0f4e02dbcbeca0d99e9c63837b1afa85294c232aa0aff26b28776",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_750f1df73596",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

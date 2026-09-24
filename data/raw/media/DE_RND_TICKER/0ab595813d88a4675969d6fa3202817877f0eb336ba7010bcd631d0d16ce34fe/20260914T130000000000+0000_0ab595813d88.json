@@ -1,0 +1,29 @@
+{
+  "document_id": "0ab595813d88a4675969d6fa3202817877f0eb336ba7010bcd631d0d16ce34fe",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran plant Gebuehren fuer die Durchfahrt der Strasse von Hormus",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-10T11:31:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker erklaerte Aussenamtssprecher Baghai, der Iran erarbeite gemeinsam mit dem Oman Mechanismen zur Ueberwachung von Sicherheit und Umweltschutz, verbunden mit geplanten Gebuehren fuer die Durchfahrt der Meerenge. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "a30739ea9febdaccb8d7f1a991f1e5ec43b4a68dedba9cf780d4ad11dc1d9836",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_0ab595813d88",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "document_id": "DOCUMENT_ID_FROM_NARRATIVE_DOCUMENTS_CSV",
+  "categories": [
+    "MILITARY_OPERATIONS_SECURITY"
+  ],
+  "frames": [
+    "SECURITY_PROTECTION"
+  ],
+  "reviewer": "REVIEWER_NAME_OR_CODE",
+  "reviewed_at": "2026-09-13T12:00:00+00:00",
+  "verification_status": "VERIFIED"
+}

@@ -1,0 +1,2 @@
+event_id,event_date,title,event_type,affected_country_codes,verification_status,source_name,source_url,notes
+EVT_PRIMARY_20260228,2026-02-28,Primary conflict event specified in the approved research design,CONFLICT_ONSET,IR|IL|US,RESEARCH_DESIGN_PRE_SPECIFIED,United Nations News,https://news.un.org/en/story/2026/03/1167065,"Primary date fixed before the market-universe analysis; the event study remains descriptive and does not infer causality."

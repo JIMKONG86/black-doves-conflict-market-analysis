@@ -1,0 +1,31 @@
+{
+  "document_id": "8967eb28d46dafa83a8607094fab55b9584a0e3abc04b310c8b6f9bf002214dc",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump warnt Russland und China vor Waffenhilfe fuer Iran",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-24T18:41:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker schrieb Trump auf Truth Social, eine Waffenlieferung Russlands oder Chinas an den Iran waere schlecht fuer diese Laender, und behauptete, sowohl Xi Jinping als auch Putin haetten ihm zugesichert, dies nicht zu tun. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "4beaf5b68e84bc77334e7c13e74a43407d8bb0ac8add11aa969f7e520db2b64d",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_8967eb28d46d",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "CN",
+    "IR"
+  ]
+}

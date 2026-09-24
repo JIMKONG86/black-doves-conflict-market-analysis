@@ -1,0 +1,30 @@
+{
+  "document_id": "5d3b45b3c885b66877b34f13d91580858659752b7b969373c942d9d63da96101",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iranischer Hardliner fordert Praeventivschlaege gegen US-Einrichtungen am Golf",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-01T12:58:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker forderte der ultrakonservative Abgeordnete Nabawian angesichts niedriger Munitionsvorraete, hoher Spritpreise und bevorstehender US-Kongresswahlen Praeventivschlaege gegen US-Einrichtungen am Persischen Golf. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "e92cc84feb680a60d456b2e46fe658a2377a35331a2ea95dc832b291a9f51acd",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_5d3b45b3c885",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

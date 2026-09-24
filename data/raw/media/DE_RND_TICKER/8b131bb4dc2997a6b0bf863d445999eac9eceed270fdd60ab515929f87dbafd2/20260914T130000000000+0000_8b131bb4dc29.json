@@ -1,0 +1,30 @@
+{
+  "document_id": "8b131bb4dc2997a6b0bf863d445999eac9eceed270fdd60ab515929f87dbafd2",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Irans Armeesprecher droht mit Ausweitung des Kriegsgebiets",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-26T13:43:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker drohte Armeesprecher Akraminia laut Mehr mit einer Ausweitung des Kriegsgebiets bei fortgesetzten US-Luftangriffen, unter Verweis auf Huthi-Angriffe auf Schiffe im Roten Meer als Praezedenzfall. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "575ab7cd2593210d9bc737c5fda0dcbd3dfaad9bf6e57e52f9884efd34e904da",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_8b131bb4dc29",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

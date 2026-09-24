@@ -1,0 +1,31 @@
+{
+  "document_id": "c685f01f72950ecafffe383a9f8e504dc12030c17dbd72b102dbd7d1e9c9c1e3",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump: Netanjahu will USA weiter im Iran-Krieg involviert halten",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-28T15:52:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Trump, Netanjahu versuche ihn davon zu ueberzeugen, sich nicht vom Krieg im Iran abzuwenden, im Zusammenhang mit Aktivitaeten rund um eine mutmassliche Atomeinrichtung. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "92ff61de9440923f2fffab5a19aaaf32b23cc1779e349de81007b0d915b7edfc",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_c685f01f7295",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IL",
+    "IR"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "e581ebe9281c6f0fc556b3bcf57ea5c821b9aa6397799a03ba1332728739ca05",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Zwei Oeltanker fahren in Strasse von Hormus auf Seeminen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-02T11:17:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker meldeten die iranischen Revolutionsgarden, zwei Oeltanker seien in der Strasse von Hormus auf Seeminen gefahren, Crews mussten wegen Bruenden ihre Schiffe verlassen; als Grund wurden Strafmassnahmen gegen Reedereien auf 'illegalen Routen' genannt. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "f9d32cb1b82bc70975838f4489376d70f5650139a0db0fead2e01d8d75963511",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_e581ebe9281c",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

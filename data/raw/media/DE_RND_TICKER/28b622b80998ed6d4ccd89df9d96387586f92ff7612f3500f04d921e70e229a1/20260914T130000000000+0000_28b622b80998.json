@@ -1,0 +1,30 @@
+{
+  "document_id": "28b622b80998ed6d4ccd89df9d96387586f92ff7612f3500f04d921e70e229a1",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Vance: Krieg wird mit staerkerer US-Position enden",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-14T06:43:00-05:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Vizepraesident Vance Fox News, der Krieg werde mit einer staerkeren Position der USA enden, ohne eine zuvor geforderte offene, gebuehrenfreie Hormus-Passage erneut zu erwaehnen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "6b3e5da955b0953b6b156505656f9abf58310b5f170a0233ea45a3a97d37df35",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_28b622b80998",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

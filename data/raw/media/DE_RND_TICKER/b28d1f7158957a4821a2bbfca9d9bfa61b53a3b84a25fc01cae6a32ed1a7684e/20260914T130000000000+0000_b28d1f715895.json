@@ -1,0 +1,30 @@
+{
+  "document_id": "b28d1f7158957a4821a2bbfca9d9bfa61b53a3b84a25fc01cae6a32ed1a7684e",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump sagt Angriffswelle wegen Umrissen einer Einigung ab",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-02T07:02:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Trump auf Truth Social eine geplante neue Angriffswelle vorerst ab, angeblich wegen Fortschritten bei diplomatischen Bemuehungen, unter der Bedingung einer schnellen Einigung. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "3b867d3fa2d4907221ce3e37cc5d7ee00d27b5c33868f9a35dc08092d8b57dc9",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_b28d1f715895",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

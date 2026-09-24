@@ -1,0 +1,2 @@
+observation_date,affected_country,reported_civilian_deaths,reported_military_deaths,reported_civilian_facilities_destroyed,reported_military_facilities_destroyed,source_id,source_name,source_type,source_url,publication_date,verification_status
+2026-02-28,Iran,10,5,2,1,3,Example conflict report,news agency,https://example.com/conflict-report,2026-02-28,unverified

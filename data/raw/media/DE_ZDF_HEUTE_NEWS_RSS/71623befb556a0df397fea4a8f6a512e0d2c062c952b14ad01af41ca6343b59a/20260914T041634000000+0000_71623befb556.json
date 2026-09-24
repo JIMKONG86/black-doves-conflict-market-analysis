@@ -1,0 +1,29 @@
+{
+  "document_id": "71623befb556a0df397fea4a8f6a512e0d2c062c952b14ad01af41ca6343b59a",
+  "source_id": "DE_ZDF_HEUTE_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "heute.de news liveblog / RSS",
+  "source_type": "html",
+  "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+  "canonical_url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+  "query": "*",
+  "title": "Huthi-Miliz weitet Angriffe auf Saudi-Arabien aus",
+  "publisher": "ZDF",
+  "author": null,
+  "published_at": "2026-09-13T10:13:00+03:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut ZDF-Liveblog hat die pro-iranische Huthi-Miliz nach ihrem Vormarsch im Jemen ihre Angriffe auf Saudi-Arabien ausgeweitet; berichtet wird zudem von einem saudischen Hilfegesuch an die USA, die sich laut Bericht aber zurückhalten. Paraphrasierte Zusammenfassung, kein wörtliches Zitat.",
+  "content_hash": "9d46645638bd81f7d0841bfa1e55f8fc1ae3425f883a438ee66a04d8aac0afa3",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T04:16:34+00:00",
+  "version_id": "20260914T041634000000+0000_71623befb556",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "2a921db3a88313e753ba8ec19fc678c413a456c0858203812473b2ea8cd9da66",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran fordert Ende der saudischen Blockade im Jemen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-11T10:59:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker forderte Irans Aussenministerium laut der Nachrichtenagentur Irna Saudi-Arabien auf, die jahrelange Luft- und Seeblockade der von der Huthi-Miliz kontrollierten Jemen-Gebiete zu beenden und die Souveraenitaet des Jemens zu respektieren; man sei bereit, Verhandlungen zwischen den Kriegsparteien zu unterstuetzen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "fa154d7f4b5b9312782dc740175e750f8b875f364f9b78aa8269e8a062ea33cb",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_2a921db3a883",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

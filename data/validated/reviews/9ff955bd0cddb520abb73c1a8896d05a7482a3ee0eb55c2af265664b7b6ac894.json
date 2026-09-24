@@ -1,0 +1,27 @@
+{
+  "candidate_id": "9ff955bd0cddb520abb73c1a8896d05a7482a3ee0eb55c2af265664b7b6ac894",
+  "document_id": "6a0f115d6e9fd1c1873da279da415a5dd6ee74733ec2bfee11ceaa58eda23911",
+  "candidate_type": "date",
+  "review_count": 2,
+  "latest_decision": "confirmed",
+  "reviews": [
+    {
+      "review_id": "3dfae6fef37f3ce65ba7a87be6342597aa2d2081ea411b8c023502682da474e3",
+      "decision": "confirmed",
+      "semantic_role": "cited_source_date",
+      "normalized_value": "2026-03-19",
+      "reviewer_note": "Date embedded in the URL of a cited Rheinmetall publication; not treated as an independently verified event date.",
+      "reviewed_by": "Markus",
+      "reviewed_at": "2026-09-03T10:13:38.038001+00:00"
+    },
+    {
+      "review_id": "3fe8c7a161c78c45acc35a82ab0fd200edeedb3cab5cb5ae66cf34fb7d8b3bb5",
+      "decision": "confirmed",
+      "semantic_role": "document_date",
+      "normalized_value": "2026-03-19",
+      "reviewer_note": "source Bundestag - reffering to initial Rheinmetall announcement > publsihing date:  2026-07-07",
+      "reviewed_by": "Markus",
+      "reviewed_at": "2026-09-03T18:34:11.323392+00:00"
+    }
+  ]
+}

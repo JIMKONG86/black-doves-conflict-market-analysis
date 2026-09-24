@@ -1,0 +1,30 @@
+{
+  "document_id": "fc6985a82d051eb8098169a154f36374c749692862edb768a4a27b1b371ff364",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Pakistan bemueht sich weiter um Vermittlung im Iran-Krieg",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-02T17:57:00+05:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte ein Sprecher des pakistanischen Aussenministeriums, die von mehreren Regionalstaaten unterstuetzten Vermittlungsbemuehungen wuerden fortgesetzt, nach dem Wiederaufflammen der Kaempfe zwischen den USA und dem Iran. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "f78dd480ea9aa8299d60f7a6c098b4e06cbf59f72520954f0887bece8eb8da64",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_fc6985a82d05",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

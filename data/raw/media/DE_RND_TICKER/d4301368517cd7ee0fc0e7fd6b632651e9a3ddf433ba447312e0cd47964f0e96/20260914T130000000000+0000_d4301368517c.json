@@ -1,0 +1,29 @@
+{
+  "document_id": "d4301368517cd7ee0fc0e7fd6b632651e9a3ddf433ba447312e0cd47964f0e96",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Berichte ueber Explosionen im Sueden des Irans",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-10T00:07:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker berichtete die staatliche Nachrichtenagentur Irna von Explosionen im Bereich der Strasse von Hormus, betroffen seien die Insel Gheschm sowie die Staedte Sirik und Minab; Ursache und Umstaende blieben zunaechst unklar, das US-Militaer hatte zuvor mehrfach iranische Oeltanker in der Region angegriffen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "56704a687d1c98e4137fd527ac727b8e1ed14f8b941b793962d2b2f395b449d5",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_d4301368517c",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

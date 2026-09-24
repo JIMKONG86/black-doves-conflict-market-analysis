@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "BLACK DOVES: Conflict Market Analysis"
+type: software
+authors:
+  - family-names: "Nestler"
+    given-names: "Markus"
+version: 1.0.0
+date-released: 2026-09-24
+repository-code: "https://github.com/JIMKONG86/black-doves-conflict-market-analysis"
+url: "https://github.com/JIMKONG86/black-doves-conflict-market-analysis"
+abstract: >-
+  Object-oriented Python framework connecting state roles, conflict events,
+  company and benchmark returns, Brent oil prices and German consumer fuel
+  prices for the 2026 Israel-Iran-United States conflict study.

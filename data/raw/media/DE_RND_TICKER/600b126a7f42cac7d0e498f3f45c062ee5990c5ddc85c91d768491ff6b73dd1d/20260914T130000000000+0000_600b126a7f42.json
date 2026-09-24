@@ -1,0 +1,30 @@
+{
+  "document_id": "600b126a7f42cac7d0e498f3f45c062ee5990c5ddc85c91d768491ff6b73dd1d",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran weist Trumps Hormus-Anspruch zurueck: Meerenge gehoert uns",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-15T06:33:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker schrieb Irans Vizeaussenminister Gharibabadi, die Strasse von Hormus lasse sich weder per Tweet noch mit einem Flugzeugtraeger einnehmen, der Iran fuerchte weder Drohungen noch Befehle. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "373f2b7d84f95e26b46dd40a26011f109a0850f5405e2401abd521f12d0708a0",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_600b126a7f42",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "da192b820eed6080ac8134fadb975dc34480a59265f1ced6d3e3e1ba79a84628",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran dementiert Raketenangriff auf Vereinigte Arabische Emirate",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-19T09:59:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker bezeichnete Aussenamtssprecher Baghai Vorwuerfe eines iranischen Raketenangriffs auf die Emirate als voellig unbegruendet. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "c1e1ec037b6df00cab31e6bafd22e9c7e52a22629b98904f729145449308d003",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_da192b820eed",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

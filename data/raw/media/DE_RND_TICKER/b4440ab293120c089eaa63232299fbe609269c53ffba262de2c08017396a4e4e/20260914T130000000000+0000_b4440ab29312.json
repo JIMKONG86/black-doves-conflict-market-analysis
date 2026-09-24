@@ -1,0 +1,31 @@
+{
+  "document_id": "b4440ab293120c089eaa63232299fbe609269c53ffba262de2c08017396a4e4e",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump und Netanjahu treffen sich im Weissen Haus, Fokus auf Iran",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-28T17:29:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker traf Israels Regierungschef Netanjahu im Weissen Haus zu einem rund anderthalbstuendigen Gespraech mit Trump ein, bei dem es nach Netanjahus eigenen Angaben vor allem um den Iran ging. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "37027c200dced37c262ba6326e8dc2dee4429dac1ce9955279c6992c238f0e57",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_b4440ab29312",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IL",
+    "IR"
+  ]
+}

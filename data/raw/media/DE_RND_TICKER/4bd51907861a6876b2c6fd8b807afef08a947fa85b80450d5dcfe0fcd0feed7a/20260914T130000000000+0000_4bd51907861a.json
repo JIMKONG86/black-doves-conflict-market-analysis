@@ -1,0 +1,30 @@
+{
+  "document_id": "4bd51907861a6876b2c6fd8b807afef08a947fa85b80450d5dcfe0fcd0feed7a",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "US-Militaer weist Vorwurf gezielter Angriffe auf Zivilisten zurueck",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-02T17:52:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker bestaetigte Centcom-Sprecher Hawkins Berichte iranischer Staatsmedien ueber einen toedlichen Raketeneinschlag auf eine Hochzeitsfeier weder noch dementierte er sie, betonte aber, das US-Militaer nehme niemals Zivilisten ins Visier. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "1d46a261f5a2333e7da5781edd22da3281dc69d051128b6c3793b3d8b6b1d1dc",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_4bd51907861a",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

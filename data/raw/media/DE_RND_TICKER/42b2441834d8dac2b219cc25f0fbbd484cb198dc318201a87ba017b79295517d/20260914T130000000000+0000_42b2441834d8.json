@@ -1,0 +1,30 @@
+{
+  "document_id": "42b2441834d8dac2b219cc25f0fbbd484cb198dc318201a87ba017b79295517d",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Mission Accomplished: Trump zieht Bush-Vergleich fuer Iran-Kriegserfolg",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-28T06:16:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker griff Trump zur Verkuendung eines Erfolgs im Iran-Krieg auf den beruechtigten Spruch 'Mission Accomplished' von Ex-Praesident George W. Bush zurueck, mit dem sich Bush im Irak-Krieg historisch einen Fauxpas geleistet hatte. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "acf361b558abc521263bf43239f4d1d425fde11c7517bc2151028cb36f6ed3ea",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_42b2441834d8",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

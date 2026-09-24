@@ -1,0 +1,30 @@
+{
+  "document_id": "9e4d0815b448dcc1a7039baec872c42e9ee6f95ceb41328c0763863a4f33d5af",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Pakistanische Geheimdienstquellen: US-Bodenoffensive im Iran wird wahrscheinlicher",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-27T14:09:00+05:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker hielten gut informierte pakistanische Quellen eine begrenzte US-Bodenoffensive im Iran fuer zunehmend wahrscheinlich, da Trump moeglicherweise Warnungen des eigenen Militaers ignoriere. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "2712512ae5c0007486398154966dc7d914a0ba0931e5640b89b7ed08dabb69f9",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_9e4d0815b448",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

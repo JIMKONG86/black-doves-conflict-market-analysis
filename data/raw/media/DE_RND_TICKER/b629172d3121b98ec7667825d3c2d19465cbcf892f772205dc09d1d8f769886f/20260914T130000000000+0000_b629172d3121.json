@@ -1,0 +1,30 @@
+{
+  "document_id": "b629172d3121b98ec7667825d3c2d19465cbcf892f772205dc09d1d8f769886f",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Irans Aussenminister wirft USA oekonomischen Terrorismus als Ablenkung vor",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-20T17:20:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker bezeichnete Araghtschi die angedrohten Wirtschaftskriegs-Massnahmen als Ablenkungsmanoever von US-internen Finanzproblemen und warf Washington oekonomischen Terrorismus vor. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "b593a9e33aeb0482d0cc133a7768d3b4d9c7857173581a873373bd528e636b6d",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_b629172d3121",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

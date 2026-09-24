@@ -1,0 +1,29 @@
+{
+  "document_id": "759be3014b01eb5b5c25b772facccfa51a4ca5a176a830d33ec55ed97e75afda",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran: Flugabwehr an mehr als 3800 Orten landesweit stationiert",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-01T11:22:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker erklaerte ein iranischer General im Staatsfernsehen, Luftverteidigungseinheiten seien an mehr als 3800 Orten im Land stationiert, verteilt auf Wuesten, Kuesten, Inseln und Gebirge. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "d0ccc146a77942f4c5c37f8676fa73cdd98fa6b0388e5f91d1a931c67cbd34c9",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_759be3014b01",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

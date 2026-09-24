@@ -1,0 +1,31 @@
+{
+  "document_id": "3e199b749cccdd71110f9e16f05718d7886c9704fb942d1f0f930aeddc36d438",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Brics-Gruppe fordert groesste Zurueckhaltung im Nahost-Konflikt",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-12T15:30:00+05:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker riefen die Brics-Staaten bei ihrem Gipfeltreffen in Indien in einer 'Erklaerung von Neu-Delhi' zu groesster Zurueckhaltung im sich ausweitenden Nahost-Konflikt auf und zeigten sich tief besorgt ueber die Eskalation der Spannungen; die Akteure im Iran-Krieg wurden dabei anders als beim israelisch-palaestinensischen Konflikt nicht namentlich benannt. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "8e9207e6d5038e8793a507d2fb60541dc471bd1aac0cdfa0e579fd6890698acd",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_3e199b749ccc",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "IL",
+    "US"
+  ]
+}

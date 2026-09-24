@@ -1,0 +1,29 @@
+{
+  "document_id": "6aee554df82bf420ac7a146a1431c24c1b63937ba36cffc230f848debfe64ef3",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump macht Atomdeal mit Saudi-Arabien von Annaeherung an Israel abhaengig",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-23T14:24:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker verknuepfte Trump ueberraschend einen moeglichen zivilen Atomdeal mit Saudi-Arabien mit der Forderung, das Koenigreich muesse den Abraham-Abkommen zur Normalisierung mit Israel beitreten - eine bedeutende diplomatische Verkopplung zweier Dossiers. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "a68b8e967b2013f9f2803d9fa5d4dd6d65e66c0c7008864805422726f101c1c0",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_6aee554df82b",
+  "company_ids": [],
+  "target_country_codes": [
+    "US"
+  ]
+}

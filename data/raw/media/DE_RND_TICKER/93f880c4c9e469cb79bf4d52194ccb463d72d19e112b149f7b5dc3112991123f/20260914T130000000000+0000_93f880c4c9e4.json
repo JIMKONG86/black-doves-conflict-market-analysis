@@ -1,0 +1,30 @@
+{
+  "document_id": "93f880c4c9e469cb79bf4d52194ccb463d72d19e112b149f7b5dc3112991123f",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump will eingefrorene iranische Gelder fuer Schiffsreparaturen nutzen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-24T07:06:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker kuendigte Trump an, kuenftige Schaeden an Schiffen im Krieg mit eingefrorenen iranischen Geldern zu finanzieren. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "692393d936cb95f8138e56a0ada6b63b57b32179c1c648581a8248393497c3b6",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_93f880c4c9e4",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

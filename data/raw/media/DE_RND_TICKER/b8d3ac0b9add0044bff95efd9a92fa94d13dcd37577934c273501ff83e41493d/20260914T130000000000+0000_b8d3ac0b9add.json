@@ -1,0 +1,30 @@
+{
+  "document_id": "b8d3ac0b9add0044bff95efd9a92fa94d13dcd37577934c273501ff83e41493d",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Netanjahu: Iran wollte meinen Sohn ermorden",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-24T22:48:00+03:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Netanjahu dem Sender Channel 14, der Iran habe einen Mordversuch an einem seiner Soehne unternommen, der nur durch dessen Sicherheitskraefte vereitelt worden sei. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "a7982e572c6be41a9f87618f33d87f8bb65161d8c0c8248481f7bc1e5115d2d2",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_b8d3ac0b9add",
+  "company_ids": [],
+  "target_country_codes": [
+    "IL",
+    "IR"
+  ]
+}

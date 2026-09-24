@@ -1,0 +1,29 @@
+{
+  "document_id": "a74c2defa43fc27b58b1edb8f2a0563df334ef533b8a8d36aef996edfb89d4f4",
+  "source_id": "DE_TAGESSCHAU_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "tagesschau.de news RSS",
+  "source_type": "html",
+  "url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "canonical_url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "query": "*",
+  "title": "Iran feuert Raketenwellen auf Israel ab",
+  "publisher": "ARD-aktuell",
+  "author": null,
+  "published_at": "2026-02-28T09:54:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut Tagesschau-Liveblog haben die iranischen Streitkraefte nach eigenen Angaben mehrere Raketenwellen auf Israel abgefeuert; die Revolutionsgarden bezeichneten dies als Reaktion auf die vorausgegangenen Angriffe. Israel meldete Luftschutzalarm in mehreren Landesteilen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "2e59b8790af33ed68bb79581abb7853237e50cda9210e57d3e780327077050ed",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T10:00:00+00:00",
+  "version_id": "20260914T100000000000+0000_a74c2defa43f",
+  "company_ids": [],
+  "target_country_codes": [
+    "IL"
+  ]
+}

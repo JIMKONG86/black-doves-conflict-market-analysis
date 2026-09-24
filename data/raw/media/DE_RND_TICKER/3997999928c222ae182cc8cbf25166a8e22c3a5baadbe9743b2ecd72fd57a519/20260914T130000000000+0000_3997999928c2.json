@@ -1,0 +1,30 @@
+{
+  "document_id": "3997999928c222ae182cc8cbf25166a8e22c3a5baadbe9743b2ecd72fd57a519",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "US-Repraesentantenhaus fordert per Resolution erneut Ende des Iran-Kriegs",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-23T18:58:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker verabschiedete das US-Repraesentantenhaus erneut eine Resolution, die Trump zur Beendigung des Militaereinsatzes gegen den Iran auffordert; der Beschluss hat keine unmittelbare rechtliche Konsequenz, zeigt aber wachsenden innenpolitischen Widerstand. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "e6301e7fdec902c788c302480b40bbe5dcc413253b20349ec115ba6ebec2857d",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_3997999928c2",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

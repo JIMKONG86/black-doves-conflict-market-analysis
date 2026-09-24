@@ -1,0 +1,30 @@
+{
+  "document_id": "4fb11595865b6d74bc2b7afc562cf9df4f77b5a454d14c7d5c37f9669530f3b5",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Irans Parlamentspraesident warnt USA vor Bumerang-Effekt des Wirtschaftskriegs",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-23T20:00:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker warnte Parlamentspraesident Ghalibaf per Comic auf X, der von Washington angekuendigte Wirtschaftskrieg werde die USA selbst treffen - ein Bumerang-Effekt. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "8a0fa2808349856ba8e2651d7a04f9b41efe82a352b7319e39b03def81859e23",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_4fb11595865b",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

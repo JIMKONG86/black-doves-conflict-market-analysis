@@ -1,0 +1,30 @@
+{
+  "document_id": "91bbd48d4f641843874e446e04a15e37c30bc50710d4a7d7107030840588b8c9",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Netanjahu: Irans Atomprogramm um Jahre zurueckgeworfen",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-26T18:37:00+03:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Netanjahu Fox News, ein grosser Teil der iranischen Atomanlagen sei zerstoert und das Programm um mehrere Jahre zurueckgeworfen worden, auch wenn ein Wiederaufbauversuch nicht ausgeschlossen sei. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "b521c036bc49ae5e0dd94c0855ab3e94625850d7408381761b9591ff2bee27ce",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_91bbd48d4f64",
+  "company_ids": [],
+  "target_country_codes": [
+    "IL",
+    "IR"
+  ]
+}

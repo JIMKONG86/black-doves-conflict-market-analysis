@@ -1,0 +1,29 @@
+{
+  "document_id": "0e2f86979a12e0af5ce52b9cdfe28a3089db3dbda00da6ab72f69cae19e0f742",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran verdoppelt nicht subventionierte Benzinpreise",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-07T10:35:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker hat Irans Regierung angesichts der Wirtschaftskrise die Kosten fuer Benzin auf dem freien Markt von 50.000 auf 100.000 Rial verdoppelt; die subventionierten Preise fuer die ersten 110 Liter pro Tankkarte blieben unveraendert. Praesident Peseschkian schlug angesichts drohender Versorgungsengpaesse zudem einen autofreien Wochentag vor. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "9e896f23326de433c17ccc448c73ed68c5c9444a25c99dfa99643d3fa8c0d776",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_0e2f86979a12",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "71fc053d04e6873014f8bcc6ae28b178c838246b1139a505fdc206df874c8eae",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump: Oelpreise duerften erst nach den US-Zwischenwahlen sinken",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-09T21:04:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker rechnete US-Praesident Trump damit, dass die kriegsbedingt stark gestiegenen Oelpreise erst nach den Zwischenwahlen am 3. November wieder sinken wuerden; der Brent-Preis war am selben Tag erstmals seit Juli ueber 100 Dollar gestiegen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "5e27d35a739031994ab88cf9c74e282e5b1266a1bcfc0045629fbdfa2eb593e2",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_71fc053d04e6",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

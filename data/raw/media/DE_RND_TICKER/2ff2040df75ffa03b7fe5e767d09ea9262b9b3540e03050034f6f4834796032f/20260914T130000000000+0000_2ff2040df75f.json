@@ -1,0 +1,29 @@
+{
+  "document_id": "2ff2040df75ffa03b7fe5e767d09ea9262b9b3540e03050034f6f4834796032f",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iranische Waehrung faellt auf 2,02 Millionen Rial je Dollar",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-24T10:46:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker fiel der Rial auf dem informellen Devisenmarkt am Montag zu Handelsbeginn auf ein Rekordtief von 2,02 Millionen je US-Dollar, kurz vor der erwarteten Ankuendigung weiterer umfangreicher US-Sanktionen, die Washington als oekonomischen D-Day bezeichnete. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "8e2068f91fa1e8f9029e93a65fb8f6120dae56d7ec588e73ab65886172dc4f3d",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_2ff2040df75f",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "85aab9faa454790b08f957aae1db814761a37d323a9d58298acc774b2495ff49",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump macht Entschaedigungszahlungen zur Bedingung fuer Verhandlungen mit Iran",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-10T20:28:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker forderte Trump, der Iran solle fuer alle durch iranische Seite verletzten oder getoeteten Menschen sowie fuer Familien getoeteter Demonstranten zahlen, als Bedingung fuer weitere Verhandlungen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "2368ef0f7bf4ac806e799ed96f568a8987dea2862d47bafa11d1b5b924f066a8",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_85aab9faa454",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

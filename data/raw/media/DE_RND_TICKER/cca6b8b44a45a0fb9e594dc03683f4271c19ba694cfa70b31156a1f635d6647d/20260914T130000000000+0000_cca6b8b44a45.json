@@ -1,0 +1,29 @@
+{
+  "document_id": "cca6b8b44a45a0fb9e594dc03683f4271c19ba694cfa70b31156a1f635d6647d",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran greift erneut Ziele in Kuwait an",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-03T04:18:00+03:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker griff der Iran nach eigenen Angaben erneut Ziele in Kuwait an, ein weiterer Vorfall in der laenger andauernden Serie von Vergeltungsschlaegen gegen den mit den USA verbuendeten Golfstaat. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "37fef9356b08fb91b9661730d5945c5a379bf86eb0a3c686dbdd3381de4cdf3e",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_cca6b8b44a45",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "107af796e3727f97674c35f07012a76c90070a4ddd074e8435e71faed08eb024",
+  "source_id": "DE_ZDF_HEUTE_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "heute.de news liveblog / RSS",
+  "source_type": "html",
+  "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+  "canonical_url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+  "query": "*",
+  "title": "Golfstaaten-Iran-Treffen im Oman verschoben",
+  "publisher": "ZDF",
+  "author": null,
+  "published_at": "2026-09-13T23:26:00+04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut ZDF-Liveblog hat der omanische Außenminister Badr al-Busaidi am Sonntagabend mitgeteilt, dass das für Montag in Salalah geplante regionale Außenministertreffen der Golfstaaten mit iranischen Vertretern verschoben wurde; als Grund wurde im Interesse eines Konsenses argumentiert. Paraphrasierte Zusammenfassung, kein wörtliches Zitat.",
+  "content_hash": "1c987a8b6c3b271f2e5f598fbf88ca736c469b7c1907062fc1e1685d27ebb5eb",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T04:16:34+00:00",
+  "version_id": "20260914T041634000000+0000_107af796e372",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

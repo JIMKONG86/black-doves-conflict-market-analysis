@@ -1,0 +1,29 @@
+{
+  "document_id": "588275ca4dd90e5e6729e669f972ba37d40902ec2acfe13c3e35f01626ab9815",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran spricht mit Pakistan ueber regionale Eskalation",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-11T10:49:00+05:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker haben Irans Aussenminister Araghtschi und Pakistans Armeechef Munir am Vorabend ueber die zunehmende Unsicherheit in der Region gesprochen und die Notwendigkeit regionaler Koordinierung fuer dauerhaften Frieden betont; Pakistan vermittelt im Konflikt zwischen den USA und dem Iran, zuletzt ohne erkennbare Fortschritte. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "64c2a8972855399788a1604bff4e622006ab3e2c432b06ebed9acd5003e043ac",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_588275ca4dd9",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

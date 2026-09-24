@@ -1,0 +1,29 @@
+{
+  "document_id": "5ad1f85f560e7eb22d3e9611e56d2c38ad2ac970ee4f04c332dbae393c0ddb67",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Tschechien bestellt iranischen Botschafter wegen Drohungen gegen Exilsender Radio Farda ein",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-27T14:38:00+02:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker reagierte Tschechien mit einer Einbestellung des iranischen Botschafters auf Drohungen gegen den in Prag ansaessigen persischsprachigen Sender Radio Farda, nachdem Irans Streitkraefte mehrere persischsprachige Exilsender als moegliche Angriffsziele benannt hatten. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "d1416b0225b67662312ea81858cf5101e7366af1c4b9a835bceaeb620156d5e9",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_5ad1f85f560e",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

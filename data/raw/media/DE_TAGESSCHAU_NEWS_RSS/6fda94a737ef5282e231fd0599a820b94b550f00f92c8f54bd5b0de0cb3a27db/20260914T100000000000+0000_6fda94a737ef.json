@@ -1,0 +1,30 @@
+{
+  "document_id": "6fda94a737ef5282e231fd0599a820b94b550f00f92c8f54bd5b0de0cb3a27db",
+  "source_id": "DE_TAGESSCHAU_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "tagesschau.de news RSS",
+  "source_type": "html",
+  "url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "canonical_url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "query": "*",
+  "title": "Kritik aus Trumps eigenem Lager an Angriffen auf Iran",
+  "publisher": "ARD-aktuell",
+  "author": null,
+  "published_at": "2026-02-28T21:18:00-05:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut Tagesschau-Liveblog gab es auch innerhalb der MAGA-Bewegung von US-Praesident Trump kritische Stimmen zu den Angriffen auf Iran; mehrere Vertreter warnten, der Krieg koennte den Republikanern bei den Kongresswahlen im November schaden, waehrend andere Anhaenger den Einsatz verteidigten. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "7833837a55a5dc4c5030fb6d99cc835541908e2955c950889a7902d858a49f53",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T10:00:00+00:00",
+  "version_id": "20260914T100000000000+0000_6fda94a737ef",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

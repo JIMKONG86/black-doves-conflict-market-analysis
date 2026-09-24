@@ -1,0 +1,29 @@
+{
+  "document_id": "5c1c14c61012dbfd2fbc96e624f6dd7253ad810b3fabd7ad749b93dea4f97fff",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Teheran droht Nachbarlaendern nach Berichten ueber neue US-Angriffsplaene",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-01T11:04:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker warnte ein iranischer Militaerkommandeur laut Irna muslimische Nachbarlaender, ihre Kooperation mit den USA zu ueberdenken, da sie sonst selbst Ziel iranischer Angriffe werden koennten. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "6005a7681cf6ef159aa745e5055cbcc9f4f19cbca1fe70e18e76d37300cd6bc1",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_5c1c14c61012",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "document_id": "fbfb8bc985069abb78e93ebab187377fba5f5a2b13567e289ae3df6e9dc77698",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Munitionsfund nach Angriff auf Hochzeitsfeier deutet auf US-Hersteller",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-05T15:00:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker meldeten iranische Behoerden nach einem toedlichen Angriff auf eine Hochzeitsfeier in der Stadt Sirik (mindestens fuenf Tote, 70 Verletzte) den Fund eines Munitionsfragments, dessen Identifikationsnummer laut dem obersten Richter der Provinz Hormosgan auf den US-Ruestungskonzern Raytheon (RTX Corporation) hindeute; diese Angaben liessen sich unabhaengig nicht ueberpruefen. US-Vizepraesident Vance erklaerte, die USA untersuchten den Vorfall, aeusserte sich aber skeptisch gegenueber iranischen Staatsmedien und betonte, die USA nAhmen niemals Zivilisten ins Visier. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "8e3088fd015188ea9b7aa481c7c14ffda0a34fd7f361e5e84266ecbbad6accd4",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_fbfb8bc98506",
+  "company_ids": [
+    "CMP036"
+  ],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

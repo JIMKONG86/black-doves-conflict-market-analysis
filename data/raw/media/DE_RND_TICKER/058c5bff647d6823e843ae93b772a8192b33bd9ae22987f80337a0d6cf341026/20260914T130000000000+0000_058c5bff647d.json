@@ -1,0 +1,29 @@
+{
+  "document_id": "058c5bff647d6823e843ae93b772a8192b33bd9ae22987f80337a0d6cf341026",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Auto rast im Iran in Pro-Regierungs-Versammlung in Maschhad, vier Tote",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-02T10:02:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker toetete ein Autofahrer in der Millionenstadt Maschhad vier Menschen bei einer naechtlichen regierungstreuen Versammlung, zehn weitere wurden verletzt; die Unfallursache blieb zunaechst unklar, Staatsmedien sprachen von einem Unfall. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "06061e199f4c7b1c102b79d308fa7172916dc83203f069825f225d18c23922b5",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_058c5bff647d",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

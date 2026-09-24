@@ -1,0 +1,30 @@
+{
+  "document_id": "f322e2b1a811fe4916329c9c466c589ebd681c1b1b8bbe01f8312fafd5a858f4",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Bessent: Washington macht Druck auf Handelspartner des Irans, vermeidet Russland-Erwaehnung",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-02T17:30:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Finanzminister Bessent Fox News, mehrere US-Regierungsvertreter fuehrten Gespraeche mit anderen Staaten, um deren Iran-Geschaefte zu beenden; auf direkte Nachfrage vermied er es, Russland ausdruecklich zu nennen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "e6298750133dd37af2d62ef95ac29cc6f1fa7d881b8d4a14853e8787b5580b9b",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_f322e2b1a811",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

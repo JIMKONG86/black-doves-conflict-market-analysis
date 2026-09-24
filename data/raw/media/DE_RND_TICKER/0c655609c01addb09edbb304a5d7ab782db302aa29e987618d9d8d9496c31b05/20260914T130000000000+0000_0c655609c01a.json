@@ -1,0 +1,29 @@
+{
+  "document_id": "0c655609c01addb09edbb304a5d7ab782db302aa29e987618d9d8d9496c31b05",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Pentagon fordert Ruestungsindustrie zu schnellerer Waffenproduktion auf",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-09T18:51:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker berichteten Washington Post und CNN uebereinstimmend, das Pentagon habe Vertreter der US-Ruestungsindustrie aufgefordert, Produktion und Lieferung von Waffen rasch zu steigern; Pentagon-Sprecher Parnell bestaetigte die Echtheit der Mitteilung der dpa. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "f552286cd56ae836ccd3ae2a149d6ae48303379daf8de29587990e41c6d92a1a",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_0c655609c01a",
+  "company_ids": [],
+  "target_country_codes": [
+    "US"
+  ]
+}

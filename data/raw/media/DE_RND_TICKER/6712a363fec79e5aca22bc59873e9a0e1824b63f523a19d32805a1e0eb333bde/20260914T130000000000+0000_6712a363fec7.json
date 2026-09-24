@@ -1,0 +1,30 @@
+{
+  "document_id": "6712a363fec79e5aca22bc59873e9a0e1824b63f523a19d32805a1e0eb333bde",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Deutsch-tuerkisch initiierte Istanbul-Konferenz zur Strasse von Hormus verschoben",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-28T11:24:00+02:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker wurde die auf deutsch-tuerkische Initiative mit Saudi-Arabien, Pakistan und Aegypten geplante Konferenz zu Loesungen fuer die blockierte Strasse von Hormus wegen Terminschwierigkeiten eines Teilnehmers verschoben; ein neuer Termin stand zunaechst nicht fest. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "cf9bcf92aabe3a8bd3c825cd472bcd0bdf1452e9658286e7a5c153148d4c5b31",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_6712a363fec7",
+  "company_ids": [],
+  "target_country_codes": [
+    "DE",
+    "IR"
+  ]
+}

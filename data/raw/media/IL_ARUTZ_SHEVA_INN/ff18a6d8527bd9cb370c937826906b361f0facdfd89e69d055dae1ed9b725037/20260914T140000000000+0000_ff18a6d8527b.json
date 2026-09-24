@@ -1,0 +1,30 @@
+{
+  "document_id": "ff18a6d8527bd9cb370c937826906b361f0facdfd89e69d055dae1ed9b725037",
+  "source_id": "IL_ARUTZ_SHEVA_INN",
+  "source_country_code": "IL",
+  "source_name": "israelnationalnews.com search/article pages",
+  "source_type": "html",
+  "url": "https://www.israelnationalnews.com/news/431601",
+  "canonical_url": "https://www.israelnationalnews.com/news/431601",
+  "query": "iran",
+  "title": "Neue Details: Wie Trump nach iranischer Raketendrohung heimlich das Flugzeug wechselte",
+  "publisher": "Israel National News (Arutz Sheva)",
+  "author": null,
+  "published_at": "2026-08-12T12:28:00+03:00",
+  "publication_timezone": "Asia/Jerusalem",
+  "date_precision": "datetime",
+  "jurisdiction": "Israel",
+  "language": "de",
+  "content": "Laut Israel National News berichteten CBS News und die New York Times, US-Geheimdienste haetten nach dem Nato-Gipfel in der Tuerkei eine moegliche iranische Raketenbedrohung gegen Trumps Flugzeug identifiziert; der Secret Service habe ihn daraufhin unbemerkt ueber einen hochgefahrenen Catering-Wagen von der Air Force One auf eine kleinere C-32A umsteigen lassen, waehrend Journalisten und Kabinettsmitglieder wie Rubio und Bessent an Bord der urspruenglichen Maschine blieben, ohne informiert zu werden. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "9dbe8c57883e2bebc41a0f8653b71bb2c3d10b8f27d2fd55358b88c627ac62c5",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T14:00:00+00:00",
+  "version_id": "20260914T140000000000+0000_ff18a6d8527b",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

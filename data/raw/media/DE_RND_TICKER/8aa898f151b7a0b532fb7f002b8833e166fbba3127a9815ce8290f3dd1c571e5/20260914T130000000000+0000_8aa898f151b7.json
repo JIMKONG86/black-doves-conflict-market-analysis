@@ -1,0 +1,30 @@
+{
+  "document_id": "8aa898f151b7a0b532fb7f002b8833e166fbba3127a9815ce8290f3dd1c571e5",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran meldet Angriff auf US-Militaerboot, USA dementieren",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-06T14:30:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker berichteten iranische Staatsmedien von einem Angriff auf ein unbesetztes US-Militaerboot, das in eine von Iran zugangsbeschraenkte Zone der Strasse von Hormus habe fahren wollen; ein Centcom-Sprecher bezeichnete den Bericht als komplette Luege. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "6f4da7f2331b1bd7b232bb3178a23d6f21e80ed55ef22574b21ec1b4c1e5177c",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_8aa898f151b7",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

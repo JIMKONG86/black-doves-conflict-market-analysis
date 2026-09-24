@@ -1,0 +1,29 @@
+{
+  "document_id": "ab7c951319df679e6905633ec483bbb08a1d00fe274a442fc0854109db255779",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Vorlaeufige Iran-Oman-Einigung zu Hormus, Zustimmung des obersten Fuehrers steht aus",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-05T16:39:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sollen iranische und omanische Unterhaendler sich laut Regionalvertretern in Grundzuegen auf eine Wiedereroeffnung der Strasse von Hormus geeinigt haben, die endgueltige Zustimmung des obersten Fuehrers Modschtaba Chamenei stehe aber noch aus. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "30f3e3ffc89180d9efcec3cb309e3532218c21061e0c5f3a59cd78c884e862e4",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_ab7c951319df",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

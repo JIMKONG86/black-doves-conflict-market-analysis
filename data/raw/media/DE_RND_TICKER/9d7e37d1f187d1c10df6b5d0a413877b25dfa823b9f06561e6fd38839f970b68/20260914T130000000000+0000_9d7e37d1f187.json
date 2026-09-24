@@ -1,0 +1,30 @@
+{
+  "document_id": "9d7e37d1f187d1c10df6b5d0a413877b25dfa823b9f06561e6fd38839f970b68",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "China widerspricht Bericht ueber geplante Waffenlieferung an den Iran",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-29T10:31:00+08:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker erklaerte Chinas Aussenministerium einen Reuters-Bericht ueber eine bevorstehende chinesische Waffenlieferung an den Iran fuer gegenstandslos und betonte, China setze sich konsequent fuer Frieden und ein Ende des Konflikts ein - eine direkte Positionierung Chinas zu seiner Rolle im Konflikt. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "eba136950215b71b27cd6061ad813c7128898edfa5d81513c6dbdb27a039bb6e",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_9d7e37d1f187",
+  "company_ids": [],
+  "target_country_codes": [
+    "CN",
+    "IR"
+  ]
+}

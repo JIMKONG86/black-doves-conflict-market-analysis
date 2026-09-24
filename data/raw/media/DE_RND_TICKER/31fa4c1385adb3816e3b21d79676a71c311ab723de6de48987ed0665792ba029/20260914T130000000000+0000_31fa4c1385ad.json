@@ -1,0 +1,30 @@
+{
+  "document_id": "31fa4c1385adb3816e3b21d79676a71c311ab723de6de48987ed0665792ba029",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "US-Finanzminister: Strasse von Hormus in zwei Jahren bedeutungslos",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-01T18:34:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Bessent Fox Business, die Strasse von Hormus werde in zwei Jahren ein wertloses Stueck Wasser sein, da Reedereien Alternativrouten faenden - eine gewagte oekonomische Prognose zur langfristigen Bedeutung der Meerenge. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "f9a7295f4b18e8121b1907404eec1e7acf3c12f5f2a920e241a9f96c2a694cac",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_31fa4c1385ad",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

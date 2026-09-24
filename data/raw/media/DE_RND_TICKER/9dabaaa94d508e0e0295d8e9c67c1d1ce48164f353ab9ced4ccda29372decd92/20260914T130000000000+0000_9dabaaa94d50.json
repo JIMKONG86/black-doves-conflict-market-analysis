@@ -1,0 +1,30 @@
+{
+  "document_id": "9dabaaa94d508e0e0295d8e9c67c1d1ce48164f353ab9ced4ccda29372decd92",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump droht Oman mit Bombardierung im Hormus-Streit",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-17T16:45:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker drohte Trump dem Sultanat Oman, es in Grund und Boden zu bombardieren, sollte es den USA bei der Regelung der Schifffahrt durch die Strasse von Hormus in die Quere kommen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "b6935a0e0b3272baa77a2fe4623201bc262ee148fdd994418a963d61391360f0",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_9dabaaa94d50",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

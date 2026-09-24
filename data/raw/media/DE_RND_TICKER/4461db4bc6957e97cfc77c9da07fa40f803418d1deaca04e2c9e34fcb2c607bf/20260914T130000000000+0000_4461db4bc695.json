@@ -1,0 +1,30 @@
+{
+  "document_id": "4461db4bc6957e97cfc77c9da07fa40f803418d1deaca04e2c9e34fcb2c607bf",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "US-Militaer greift erstmals seit Wochen Raketenwerfer auf Insel Larak an",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-30T22:25:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker berichtete die AP unter Berufung auf einen US-Beamten, das US-Militaer habe zwei iranische Raketenwerfer auf der Insel Larak angegriffen, die Seeminen in die Strasse von Hormus schiessen sollten - die erste solche Aktion seit einem Monat. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "d57d661bfa4cd46fb062e2c66d7c2aedd84ca47bc2315260cfb44b4458599b74",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_4461db4bc695",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

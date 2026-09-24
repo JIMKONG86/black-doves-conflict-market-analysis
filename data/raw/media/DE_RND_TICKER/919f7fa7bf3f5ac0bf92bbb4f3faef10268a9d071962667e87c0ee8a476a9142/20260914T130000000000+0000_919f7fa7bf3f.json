@@ -1,0 +1,29 @@
+{
+  "document_id": "919f7fa7bf3f5ac0bf92bbb4f3faef10268a9d071962667e87c0ee8a476a9142",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Huthi-Rebellen greifen erneut jemenitische Hafenstadt Mokka an",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-10T03:13:00+03:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker meldete die jemenitische Armee, die iranisch unterstuetzte Huthi-Miliz habe ballistische Raketen und Drohnen auf ein Wohnviertel der regierungskontrollierten Hafenstadt Mokka abgefeuert. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "0728efdd1060863f80a09fa3531b4f9e965773c2bc9e871ba843598d868a1e99",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_919f7fa7bf3f",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

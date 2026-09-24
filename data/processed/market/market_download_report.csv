@@ -1,0 +1,5 @@
+instrument_type,ticker,company_id,company_name,analysis_tier,is_confirmatory,benchmark_for_count,status,attempts,row_count,first_date,last_date,file_path,error
+COMPANY,300750.SZ,CMP009,"Contemporary Amperex Technology Co., Limited (CATL)",SECONDARY_INDIRECT,False,0,SKIPPED_EXISTING,0,889,2023-01-03,2026-09-02,data\raw\market\universe\300750_SZ.csv,
+COMPANY,EQNR.OL,CMP018,Equinor ASA,PRIMARY_DIRECT,False,0,SKIPPED_EXISTING,0,919,2023-01-02,2026-09-02,data\raw\market\universe\EQNR_OL.csv,
+BENCHMARK,000300.SS,,,,False,1,DOWNLOADED,1,856,2023-01-03,2026-07-17,data\raw\market\universe\000300_SS.csv,
+BENCHMARK,OBX.OL,,,,False,1,DOWNLOADED,1,884,2023-01-02,2026-07-17,data\raw\market\universe\OBX_OL.csv,

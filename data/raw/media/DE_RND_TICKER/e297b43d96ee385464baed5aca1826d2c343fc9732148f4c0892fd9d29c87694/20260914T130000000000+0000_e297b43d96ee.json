@@ -1,0 +1,30 @@
+{
+  "document_id": "e297b43d96ee385464baed5aca1826d2c343fc9732148f4c0892fd9d29c87694",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Iran: US-Angriffe beschaedigen 18 Wasserversorgungseinrichtungen im Sueden",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-27T10:08:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker berichtete die Nachrichtenagentur Fars unter Berufung auf einen Behoerdenvertreter von massiven Schaeden an der Wasserversorgung im Suedirans nach juengsten US-Angriffen, darunter 18 beschaedigte Einrichtungen einschliesslich Meerwasserentsalzungsanlagen - ziviler Infrastrukturschaden mit direkter Relevanz fuer die Wasserversorgung der Bevoelkerung. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "f7a2dee642bd53cbeb6889eeb5cb74511e4fff6a8e7b93821b95962cd3052541",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_e297b43d96ee",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

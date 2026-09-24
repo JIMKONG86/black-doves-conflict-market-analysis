@@ -1,0 +1,29 @@
+{
+  "document_id": "174601c4a084bf080d9b73a0da84c67b1bdc4f6ab2834f4dd738db38493f96cc",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Hegseth weist Bericht ueber fast erschoepftes Raketenabwehr-Arsenal zurueck",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-05T06:19:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker wies der von der US-Regierung als Kriegsminister bezeichnete Hegseth einen Medienbericht zurueck, wonach fast 80 Prozent der Abwehrraketen eines wichtigen US-Raketenabwehrsystems im Iran-Krieg verbraucht seien. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "9f1df52f991fccec7b1b24f3e85f588540b17decd5b0997b70ee48610af2be4c",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_174601c4a084",
+  "company_ids": [],
+  "target_country_codes": [
+    "US"
+  ]
+}

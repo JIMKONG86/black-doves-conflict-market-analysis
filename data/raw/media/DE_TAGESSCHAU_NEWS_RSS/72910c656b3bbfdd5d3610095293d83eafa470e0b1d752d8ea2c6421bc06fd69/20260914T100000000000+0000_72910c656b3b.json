@@ -1,0 +1,29 @@
+{
+  "document_id": "72910c656b3bbfdd5d3610095293d83eafa470e0b1d752d8ea2c6421bc06fd69",
+  "source_id": "DE_TAGESSCHAU_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "tagesschau.de news RSS",
+  "source_type": "html",
+  "url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "canonical_url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "query": "*",
+  "title": "Grosse Oelkonzerne setzen Lieferungen durch Hormus aus",
+  "publisher": "ARD-aktuell",
+  "author": null,
+  "published_at": "2026-02-28T14:46:00+04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut Tagesschau-Liveblog haben mehrere grosse Oelkonzerne und Handelshaeuser laut Reuters ihre Oel- und Treibstofflieferungen durch die Strasse von Hormus wegen des Angriffs auf Iran ausgesetzt; ein Manager eines Handelshauses sprach von einem mehrtaegigen Stillstand der eigenen Schiffe. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "8783a8a04a70bb848c1139f3943dd7a7826fb5fbdfe41aeb1f6f4577663af5ee",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T10:00:00+00:00",
+  "version_id": "20260914T100000000000+0000_72910c656b3b",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

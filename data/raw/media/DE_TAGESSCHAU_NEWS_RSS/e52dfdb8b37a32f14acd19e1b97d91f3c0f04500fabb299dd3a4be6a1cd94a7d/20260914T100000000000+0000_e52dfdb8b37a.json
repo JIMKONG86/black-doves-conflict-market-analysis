@@ -1,0 +1,29 @@
+{
+  "document_id": "e52dfdb8b37a32f14acd19e1b97d91f3c0f04500fabb299dd3a4be6a1cd94a7d",
+  "source_id": "DE_TAGESSCHAU_NEWS_RSS",
+  "source_country_code": "DE",
+  "source_name": "tagesschau.de news RSS",
+  "source_type": "html",
+  "url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "canonical_url": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html",
+  "query": "*",
+  "title": "Zahl der Toten in iranischer Maedchenschule steigt auf 85",
+  "publisher": "ARD-aktuell",
+  "author": null,
+  "published_at": "2026-02-28T18:42:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut Tagesschau-Liveblog stieg nach einem Angriff im Sueden Irans die von iranischen Behoerden gemeldete Zahl der Toten in einer Maedchenschule in der Provinz Hormusgan auf mindestens 85; die Angaben liessen sich unabhaengig nicht ueberpruefen, in der Provinz befinden sich auch Marinestuetzpunkte der iranischen Streitkraefte. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "a30c8f2bb62105a75664cb6a0d1dc42c4e582e749d75bd1d732645f1b22429af",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T10:00:00+00:00",
+  "version_id": "20260914T100000000000+0000_e52dfdb8b37a",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

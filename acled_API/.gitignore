@@ -1,0 +1,5 @@
+.env
+.acled_tokens.json
+data/
+__pycache__/
+.pytest_cache/

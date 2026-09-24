@@ -1,0 +1,30 @@
+{
+  "document_id": "7639dd42fd10af1a3e7abbdd45d2dc13783392435d7d771fa9e0993c001a76a4",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump: Iran-Krieg dauert nicht bis zum Ende seiner Amtszeit",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-11T06:35:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker rechnete US-Praesident Trump nicht damit, dass der Iran-Krieg bis zum Ende seiner Amtszeit Anfang 2029 andauern werde, und sagte voraus, der Krieg werde wahrscheinlich sehr kurz nach den US-Zwischenwahlen im November enden. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "74922a547a56537927e2074dce949ea20ea36c03dfe66cd2607bd6931c7a08f2",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_7639dd42fd10",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

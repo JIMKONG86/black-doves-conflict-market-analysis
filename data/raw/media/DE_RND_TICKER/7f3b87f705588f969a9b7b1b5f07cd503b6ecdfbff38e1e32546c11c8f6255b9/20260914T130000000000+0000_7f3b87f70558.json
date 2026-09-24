@@ -1,0 +1,30 @@
+{
+  "document_id": "7f3b87f705588f969a9b7b1b5f07cd503b6ecdfbff38e1e32546c11c8f6255b9",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "US Secret Service bestaetigt iranische Videodrohung gegen Trumps Sohn Barron",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-25T14:41:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker bestaetigte ein Sprecher des Secret Service, iranische Staatsmedien haetten ein Video mit Drohungen gegen Trumps 20-jaehrigen Sohn Barron ausgestrahlt; der Vorfall werde untersucht. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "5d58143110d91daf7e2ff1f80cfc6e4e1565e3359714943c0ec6ce78f068aa92",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_7f3b87f70558",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "5f7502174e81e978a3b5865218dab84cab2e56867149e7e8dbe564e52dc3a8d6",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Bericht: USA verlegen Spezialeinheiten und halten Bomber in Bereitschaft",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-23T06:27:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker berichteten US-Medien im Kontext der eskalierenden Strasse-von-Hormus-Krise seit Anfang Juli ueber Indizien fuer eine moegliche Ausweitung der US-Angriffe, darunter die Verlegung weiterer Spezialeinheiten und in Bereitschaft gehaltene Bomber. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "2a92a7552f2a6c745bf7b2fe025f91c1fb0044cdef359bc3cb3c84ee8f496761",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_5f7502174e81",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

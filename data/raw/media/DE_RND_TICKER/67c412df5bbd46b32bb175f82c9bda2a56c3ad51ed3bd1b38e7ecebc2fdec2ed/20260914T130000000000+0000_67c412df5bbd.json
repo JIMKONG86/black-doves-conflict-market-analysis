@@ -1,0 +1,29 @@
+{
+  "document_id": "67c412df5bbd46b32bb175f82c9bda2a56c3ad51ed3bd1b38e7ecebc2fdec2ed",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Pakistanischer Armeechef reist zu Vermittlungsgespraechen nach Teheran",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-08-24T19:23:00+05:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker reiste eine hochrangige pakistanische Delegation um Armeechef Munir nach Teheran, um USA und Iran zur Rueckkehr an den Verhandlungstisch zu bewegen und traf sich dort mit Innenminister Momeni. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "5020523f714992125bc42c4f744834551327fcf38a39f96feb75b7d634cbbe39",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_67c412df5bbd",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

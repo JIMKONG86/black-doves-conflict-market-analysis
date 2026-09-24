@@ -1,0 +1,30 @@
+{
+  "document_id": "a53f53cf6646a6e6cd3bf38424dabad6801fc8607596b3366f4b977d91665b22",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "USA verlieren Unterwasserdrohne nahe der Strasse von Hormus",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-08T22:04:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker erbeutete die iranische Marine nach Angaben des iranischen Staatsfernsehens eine defekte US-Unterwasserdrohne vom Typ Anduril Dive-LD am Eingang der Strasse von Hormus; ein Centcom-Sprecher bestaetigte den Verlust, betonte aber, es habe sich um ein aelteres, handelsuebliches Modell ohne sensible Ausruestung gehandelt. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "32e1b490bdaa60cd84c33bd9785d8485e7f4c45c58d45de46d8133fbc0dc40fe",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_a53f53cf6646",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR",
+    "US"
+  ]
+}

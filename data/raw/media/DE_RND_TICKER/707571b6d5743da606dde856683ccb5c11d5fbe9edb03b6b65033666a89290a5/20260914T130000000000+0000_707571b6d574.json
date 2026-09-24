@@ -1,0 +1,30 @@
+{
+  "document_id": "707571b6d5743da606dde856683ccb5c11d5fbe9edb03b6b65033666a89290a5",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump kuendigt harte neue Angriffe fuer kommende Wochen an",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-07-31T19:11:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker sagte Trump bei einer Kabinettssitzung in Camp David, der Iran werde sehr hart getroffen, ohne einen konkreten Zeitrahmen fuer die naechsten vier Wochen zu nennen. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "9e483d012f6b2e09879a237f26b1e035e93eba0f4d7f06929c19aa171019491d",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_707571b6d574",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}

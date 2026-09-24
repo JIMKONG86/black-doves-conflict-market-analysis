@@ -1,0 +1,29 @@
+{
+  "document_id": "758cbe174c7771f03fefe22f2c49a364c47686acc17cc7ef68024d74d4acc7c0",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Irans Vizepraesident erklaert Internetsperren fuer gescheitert",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-08T09:58:00+03:30",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker erklaerte Irans Vizepraesident Aref, der Ansatz, Technologie zu verbieten, funktioniere nicht, da VPN-Tunneldienste die staatliche Kontrolle ueber den virtuellen Raum untergraben haetten; waehrend des Kriegs war die Bevoelkerung zeitweise wochenlang vom internationalen Internet abgeschnitten. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "a20b349673ab0955a8ad8cc19d4d4d86420a9ecd2d618ee9e9045a6c7273a4c4",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_758cbe174c77",
+  "company_ids": [],
+  "target_country_codes": [
+    "IR"
+  ]
+}

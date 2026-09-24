@@ -1,0 +1,30 @@
+{
+  "document_id": "d6de633694f96f2a7bdaa33a77629472a6389755eae89e22a5c64101332147ff",
+  "source_id": "DE_RND_TICKER",
+  "source_country_code": "DE",
+  "source_name": "rnd.de Iran-Krieg-Ticker",
+  "source_type": "html",
+  "url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "canonical_url": "https://www.rnd.de/politik/ticker-zum-iran-krieg-huthi-miliz-meldet-weiteren-angriff-auf-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+  "query": "*",
+  "title": "Trump spielt Iran-Krieg herunter: eine Kleinigkeit fuer die USA",
+  "publisher": "Redaktionsnetzwerk Deutschland (RND)",
+  "author": null,
+  "published_at": "2026-09-04T21:37:00-04:00",
+  "publication_timezone": "Europe/Berlin",
+  "date_precision": "datetime",
+  "jurisdiction": "Germany",
+  "language": "de",
+  "content": "Laut RND-Ticker bezeichnete US-Praesident Trump den Krieg gegen den Iran bei einer Pressekonferenz als militaerischen Konflikt, der fuer die USA eine Kleinigkeit sei; auf die Nachfrage, ob 18 getoetete US-Soldaten kleine Fische seien, ging er zunaechst nicht ein, raeumte spaeter aber ein, dass bereits ein Todesopfer zu viel sei. Paraphrasierte Zusammenfassung, kein woertliches Zitat.",
+  "content_hash": "9b7686b322b5e4e2c9a23847275d9547522f065ef35c53b54c3cd52cbf530054",
+  "http_status": 200,
+  "error_message": null,
+  "retrieval_status": "success",
+  "retrieved_at": "2026-09-14T13:00:00+00:00",
+  "version_id": "20260914T130000000000+0000_d6de633694f9",
+  "company_ids": [],
+  "target_country_codes": [
+    "US",
+    "IR"
+  ]
+}
